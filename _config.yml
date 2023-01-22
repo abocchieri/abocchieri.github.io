@@ -23,7 +23,7 @@ author: Andrea Bocchieri
 ###############################################
 
 navbar-links:
-  About Me: "projects"
+  Projects: "projects"
   Publications: "publications"
   Teaching: "teaching"
 
