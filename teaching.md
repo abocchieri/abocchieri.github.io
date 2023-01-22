@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach
+title: Teaching
 subtitle: 
 ---
 
