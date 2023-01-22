@@ -10,7 +10,10 @@
 ############################
 
 # Name of website
-title: Andrea Bocchieri's Website
+title: Andrea Bocchieri
+
+# Short description of your site
+description: Academic website
 
 # Your name to show in the footer
 author: Andrea Bocchieri
@@ -52,13 +55,13 @@ social-network-links:
   email: "andrea.bocchieri@uniroma1.it"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
+  github: abocchieri
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: andrea-bocchieri
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +74,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-8846-7961
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
