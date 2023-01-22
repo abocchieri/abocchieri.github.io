@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Andrea Bocchieri
+thumbnail-img: assets/img/fotocv.jpg
 subtitle: 
 ---
 
