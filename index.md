@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Andrea Bocchieri
-thumbnail-img: assets/img/fotocv.jpg
-cover-img: /assets/img/navimg.jpg
-share-img: /assets/img/navimg.jpg
+thumbnail-img: assets/img/navimg-cropped.png
+cover-img: /assets/img/Italy-ISS.jpg
+share-img: /assets/img/Italy-ISS.jpg
 subtitle: 
 ---
 
