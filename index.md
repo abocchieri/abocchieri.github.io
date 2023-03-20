@@ -7,6 +7,8 @@ share-img: /assets/img/Italy-ISS.jpg
 subtitle: 
 ---
 
-I am Andrea, a young researcher in the exoplanet field currently in the final of a three-year postgraduate program. I work at ["Sapienza" University of Rome](https://www.uniroma1.it/) under the supervision of Prof. Enzo Pascale, the Ariel Mission Scientist.
+I am a Ph.D. candidate in **exoplanet science** in the final year of my three-year program. I am affiliated with the Department of Physics at ["Sapienza" University of Rome](https://www.uniroma1.it/) and supervised by Prof. Enzo Pascale, the **Ariel Mission Scientist**.
 
-My specific subfield is the characterization of exoplanet atmospheres with Ariel. I have experience with atmospheric retrievals, end-to-end instrument simulators, calibration, detrending and performance studies of the Ariel mission.
+I specialize in **exoplanet atmospheric characterization with Ariel**. I have expertise in atmospheric retrieval methods, instrument simulation pipelines, calibration procedures, detrending techniques, and Ariel mission performance analysis.
+
+The overarching goal of my research is: **“How do we maximize the signal-to-noise ratio of a planetary or atmospheric parameter?”**. This is a fundamental question because to interpret exoplanet data, we select among competing models based on the parameter uncertainties.
