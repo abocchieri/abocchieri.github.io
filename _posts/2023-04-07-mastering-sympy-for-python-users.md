@@ -10,22 +10,22 @@ tags: [books, test]
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [1. Introduction to SymPy](#1-introduction-to-sympy)
-- [2. Installation and Basic Configuration](#2-installation-and-basic-configuration)
-- [3. Working with Expressions](#3-working-with-expressions)
-- [4. Simplification and Expansion](#4-simplification-and-expansion)
-- [5. Calculus](#5-calculus)
-- [6. Algebraic Manipulations](#6-algebraic-manipulations)
-- [7. Solving Equations](#7-solving-equations)
-- [8. Linear Algebra](#8-linear-algebra)
-- [9. Discrete Mathematics](#9-discrete-mathematics)
-- [10. Physics and Mechanics](#10-physics-and-mechanics)
-- [11. Plotting](#11-plotting)
-- [12. Code Generation and Optimization](#12-code-generation-and-optimization)
-- [13. Frequently Asked Questions](#13-frequently-asked-questions)
-- [14. Conclusion](#14-conclusion)
-- [15. External Resources](#15-external-resources)
+[Table of Contents](#table-of-contents)
+[1. Introduction to SymPy](#1-introduction-to-sympy)
+[2. Installation and Basic Configuration](#2-installation-and-basic-configuration)
+[3. Working with Expressions](#3-working-with-expressions)
+[4. Simplification and Expansion](#4-simplification-and-expansion)
+[5. Calculus](#5-calculus)
+[6. Algebraic Manipulations](#6-algebraic-manipulations)
+[7. Solving Equations](#7-solving-equations)
+[8. Linear Algebra](#8-linear-algebra)
+[9. Discrete Mathematics](#9-discrete-mathematics)
+[10. Physics and Mechanics](#10-physics-and-mechanics)
+[11. Plotting](#11-plotting)
+[12. Code Generation and Optimization](#12-code-generation-and-optimization)
+[13. Frequently Asked Questions](#13-frequently-asked-questions)
+[14. Conclusion](#14-conclusion)
+[15. External Resources](#15-external-resources)
 
 <a name="introduction"></a>
 
@@ -324,16 +324,16 @@ f_prime = sp.diff(f, x)
 ## 13. Frequently Asked Questions
 
 - **Q: How can I improve the performance of my SymPy code?**
-A: SymPy can be slow for certain types of calculations. To improve performance, consider using `lambdify()` to convert expressions to numerical functions, or use `codegen()` to generate code in other languages.
+- A: SymPy can be slow for certain types of calculations. To improve performance, consider using `lambdify()` to convert expressions to numerical functions, or use `codegen()` to generate code in other languages.
 
 - **Q: Can SymPy work with other Python libraries, such as NumPy or SciPy?**
-A: Yes, SymPy is compatible with other Python libraries. You can use `lambdify()` to create a function that works with NumPy arrays, or directly use SymPy objects with SciPy functions when appropriate. However, be aware that mixing SymPy and other libraries may sometimes require additional care and attention to ensure correct behavior.
+- A: Yes, SymPy is compatible with other Python libraries. You can use `lambdify()` to create a function that works with NumPy arrays, or directly use SymPy objects with SciPy functions when appropriate. However, be aware that mixing SymPy and other libraries may sometimes require additional care and attention to ensure correct behavior.
 
 - **Q: Can SymPy handle symbolic matrices and linear algebra operations?**
-A: Yes, SymPy can handle symbolic matrices and perform various linear algebra operations, such as matrix multiplication, inversion, determinant calculation, and eigenvalue/eigenvector computation.
+- A: Yes, SymPy can handle symbolic matrices and perform various linear algebra operations, such as matrix multiplication, inversion, determinant calculation, and eigenvalue/eigenvector computation.
 
 - **Q: Does SymPy support multivariate calculus?**
-A: Yes, SymPy supports multivariate calculus, including partial differentiation, multiple integration, gradient, divergence, and curl.
+- A: Yes, SymPy supports multivariate calculus, including partial differentiation, multiple integration, gradient, divergence, and curl.
 
 <a name="conclusion"></a>
 
