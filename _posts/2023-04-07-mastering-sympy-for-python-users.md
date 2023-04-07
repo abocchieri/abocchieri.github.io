@@ -2,9 +2,9 @@
 layout: post
 title: How to Master Sympy
 subtitle: A Comprehensive Guide for Python Users
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/forrest-gump.jpg
 thumbnail-img: /assets/img/sympy.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/forrest-gump.jpg
 tags: [books, test]
 ---
 
