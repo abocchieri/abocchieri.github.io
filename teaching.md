@@ -4,9 +4,9 @@ title: Teaching
 subtitle: 
 ---
 
-# Tutoring
+## Tutoring
 
-## M.Sc. Thesis Co-Advisor
+### M.Sc. Thesis Co-Advisor
 
 * Master thesis Co-Advisor: Tommaso Carrarini, TBD (2023-present)
 
@@ -16,8 +16,8 @@ subtitle:
 
 * Master thesis Co-Advisor: Claudia Masciulli, Synergies and complementarities between JWST and EXCITE: advancing spectroscopy of exoplanet atmospheres (2021)
 
-# Mentoring
+## Mentoring
 
-## Young Graduates
+### Young Graduates
 
 * Howard Hall, ESA Mission Performance Engineering YGT (2022-present)
