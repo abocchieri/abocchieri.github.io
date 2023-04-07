@@ -91,9 +91,9 @@ expr1.subs({x: 1, y: 2, z: 3})
 
 SymPy offers several functions to simplify and expand expressions. Here are some examples:
 
-- `simplify()`: Simplifies an expression.*
-- `expand()`: Expands an expression.*
-- `factor()`: Factors an expression.*
+- `simplify()`: Simplifies an expression.
+- `expand()`: Expands an expression.
+- `factor()`: Factors an expression.
 - `collect()`: Collects common powers of a term in an expression.
 
 ```python
@@ -109,8 +109,8 @@ factored_expr = sp.factor(expanded_expr)
 SymPy provides powerful calculus capabilities, such as differentiation, integration, limits, and series expansion. Here are some examples:
 
 - `diff()`: Differentiates an expression with respect to a variable.
-- `integrate()`: Integrates an expression with respect to a variable.*
-- `limit()`: Computes the limit of an expression as a variable approaches a point.*
+- `integrate()`: Integrates an expression with respect to a variable.
+- `limit()`: Computes the limit of an expression as a variable approaches a point.
 - `series()`: Expands an expression in a power series.
 
 ```python
@@ -137,8 +137,8 @@ i_series = i.series(x, 0, 10)
 
 SymPy provides various functions for algebraic manipulation, such as simplification, substitution, and equation solving. Here are some examples:
 
-- `simplify()`: Simplifies an expression.*
-- `subs()`: Substitutes a value or expression for a symbol.* 
+- `simplify()`: Simplifies an expression.
+- `subs()`: Substitutes a value or expression for a symbol.
 - `solve()`: Solves an equation or system of equations.
 
 ```python
@@ -154,8 +154,8 @@ sol = sp.solve(expr, x)
 
 SymPy can solve a wide variety of equations, including algebraic, trigonometric, and differential equations. Here are some examples:
 
-- `solve()`: Solves an algebraic equation.*
-- `solve_trig()`: Solves a trigonometric equation.* 
+- `solve()`: Solves an algebraic equation.
+- `solve_trig()`: Solves a trigonometric equation.
 - `dsolve()`: Solves a differential equation.
 
 ```python
@@ -184,8 +184,8 @@ sol3 = sp.dsolve(eq3, y(x))
 
 SymPy supports various linear algebra operations, such as matrix operations, eigenvalues, and eigenvectors. Here are some examples:
 
-- `Matrix()`: Creates a matrix.*
-- `eigenvals()`: Computes the eigenvalues of a matrix.* 
+- `Matrix()`: Creates a matrix.
+- `eigenvals()`: Computes the eigenvalues of a matrix.
 - `eigenvects()`: Computes the eigenvectors of a matrix.
 
 ```python
@@ -215,8 +215,8 @@ eigenvectors = A.eigenvects()
 
 SymPy offers functions for working with discrete mathematics, such as combinatorics, graph theory, and number theory. Here are some examples:
 
-- `binomial()`: Computes the binomial coefficient.*
-- `factorial()`: Computes the factorial of a number.* 
+- `binomial()`: Computes the binomial coefficient.
+- `factorial()`: Computes the factorial of a number. 
 - `prime()`: Checks if a number is prime.
 
 ```python
@@ -241,8 +241,8 @@ is_prime = sp.isprime(7)
 
 SymPy has modules for classical mechanics, quantum mechanics, optics, and thermodynamics. Here are some examples:
 
-- `Lagrangian`: Constructs the Lagrangian for a system of particles.*
-- `Hamiltonian`: Constructs the Hamiltonian for a system of particles.*
+- `Lagrangian`: Constructs the Lagrangian for a system of particles.
+- `Hamiltonian`: Constructs the Hamiltonian for a system of particles.
 - `MatrixOptics`: Performs matrix optics calculations.
 
 ```python
@@ -256,7 +256,7 @@ m, g = sp.symbols('m g')
 x, v = dynamicsymbols('x v')
 N = ReferenceFrame('N')
 P = Particle('P', N.origin.locatenew('P_pos', x *N.x), m)
-L = Lagrangian(N, P) - m* g * x
+L = Lagrangian(N, P) - m * g * x
 
 # Quantum Mechanics: Commutator
 
@@ -277,7 +277,7 @@ transfer_matrix = RayTransferMatrix(lens)
 
 SymPy can create plots of expressions and functions, including 2D and 3D plots. Here are some examples:
 
-- `plot()`: Plots a 2D graph of a function.*
+- `plot()`: Plots a 2D graph of a function.
 - `plot3d()`: Plots a 3D graph of a function.
 
 ```python
@@ -298,7 +298,7 @@ sp.plotting.plot3d(g, (x, -sp.pi, sp.pi), (y, -sp.pi, sp.pi))
 
 SymPy can generate code in various languages, such as C, Fortran, and Octave, for numerical evaluation of expressions. Here are some examples:
 
-- `lambdify()`: Converts a SymPy expression to a numerical function.*
+- `lambdify()`: Converts a SymPy expression to a numerical function.
 - `codegen()`: Generates code in a specified language.
 
 ```python
