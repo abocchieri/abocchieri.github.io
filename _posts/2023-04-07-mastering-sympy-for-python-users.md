@@ -36,7 +36,8 @@ In this guide, we will cover a wide range of topics, from basic operations to ad
 Before diving in, let's address a common question:
 
 - **Q: Why should I choose SymPy over other CAS libraries?**
-A: SymPy offers several advantages over other CAS libraries, such as its pure Python implementation, ease of integration with other Python libraries, and extensive documentation. Moreover, it's open-source and constantly evolving, with an active community of contributors.
+
+- A: SymPy offers several advantages over other CAS libraries, such as its pure Python implementation, ease of integration with other Python libraries, and extensive documentation. Moreover, it's open-source and constantly evolving, with an active community of contributors.
 
 With that said, let's start our journey!
 
