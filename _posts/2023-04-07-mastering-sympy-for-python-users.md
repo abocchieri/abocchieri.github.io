@@ -347,10 +347,10 @@ In this comprehensive guide, we have covered various aspects of SymPy, from basi
 
 To further enhance your SymPy knowledge, consider exploring these external resources:
 
-1. [SymPy Official Documentation](https://docs.sympy.org/latest/index.html")
-2. [SymPy Tutorial](https://docs.sympy.org/latest/tutorial/index.html")
-3. [SymPy Live](https://live.sympy.org/"): An interactive online environment to try SymPy without installing it.
-4. [SymPy GitHub Repository](https://github.com/sympy/sympy"): Browse the source code and contribute to the project.
-5. [SymPy Examples](https://github.com/sympy/sympy/wiki/Quick-examples"): A collection of short examples demonstrating various SymPy features.
-6. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/"): A book that covers various Python libraries, including a section on SymPy.
+1. [SymPy Official Documentation](https://docs.sympy.org/latest/index.html)
+2. [SymPy Tutorial](https://docs.sympy.org/latest/tutorial/index.html)
+3. [SymPy Live](https://live.sympy.org/): An interactive online environment to try SymPy without installing it.
+4. [SymPy GitHub Repository](https://github.com/sympy/sympy): Browse the source code and contribute to the project.
+5. [SymPy Examples](https://github.com/sympy/sympy/wiki/Quick-examples): A collection of short examples demonstrating various SymPy features.
+6. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): A book that covers various Python libraries, including a section on SymPy.
 Remember, practice is essential for mastery. We encourage you to apply what you've learned in this guide to real-world problems and challenges. Good luck on your journey with SymPy and symbolic mathematics!
