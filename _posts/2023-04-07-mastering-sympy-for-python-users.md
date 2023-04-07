@@ -10,22 +10,22 @@ tags: [books, test]
 
 ## Table of Contents
 
-[Table of Contents](#table-of-contents)
-[1. Introduction to SymPy](#1-introduction-to-sympy)
-[2. Installation and Basic Configuration](#2-installation-and-basic-configuration)
-[3. Working with Expressions](#3-working-with-expressions)
-[4. Simplification and Expansion](#4-simplification-and-expansion)
-[5. Calculus](#5-calculus)
-[6. Algebraic Manipulations](#6-algebraic-manipulations)
-[7. Solving Equations](#7-solving-equations)
-[8. Linear Algebra](#8-linear-algebra)
-[9. Discrete Mathematics](#9-discrete-mathematics)
-[10. Physics and Mechanics](#10-physics-and-mechanics)
-[11. Plotting](#11-plotting)
-[12. Code Generation and Optimization](#12-code-generation-and-optimization)
-[13. Frequently Asked Questions](#13-frequently-asked-questions)
-[14. Conclusion](#14-conclusion)
-[15. External Resources](#15-external-resources)
+- [Table of Contents](#table-of-contents)
+- [1. Introduction to SymPy](#1-introduction-to-sympy)
+- [2. Installation and Basic Configuration](#2-installation-and-basic-configuration)
+- [3. Working with Expressions](#3-working-with-expressions)
+- [4. Simplification and Expansion](#4-simplification-and-expansion)
+- [5. Calculus](#5-calculus)
+- [6. Algebraic Manipulations](#6-algebraic-manipulations)
+- [7. Solving Equations](#7-solving-equations)
+- [8. Linear Algebra](#8-linear-algebra)
+- [9. Discrete Mathematics](#9-discrete-mathematics)
+- [10. Physics and Mechanics](#10-physics-and-mechanics)
+- [11. Plotting](#11-plotting)
+- [12. Code Generation and Optimization](#12-code-generation-and-optimization)
+- [13. Frequently Asked Questions](#13-frequently-asked-questions)
+- [14. Conclusion](#14-conclusion)
+- [15. External Resources](#15-external-resources)
 
 <a name="introduction"></a>
 
