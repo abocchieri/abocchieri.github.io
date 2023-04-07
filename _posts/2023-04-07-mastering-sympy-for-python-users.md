@@ -12,6 +12,7 @@ tags: [books, test]
 
 - [Table of Contents](#table-of-contents)
 - [1. Introduction to SymPy](#1-introduction-to-sympy)
+- [2. Installation and Basic Configuration](#2-installation-and-basic-configuration)
 - [3. Working with Expressions](#3-working-with-expressions)
 - [4. Simplification and Expansion](#4-simplification-and-expansion)
 - [5. Calculus](#5-calculus)
@@ -34,10 +35,10 @@ Welcome to the comprehensive guide on mastering SymPy for advanced Python users!
 In this guide, we will cover a wide range of topics, from basic operations to advanced techniques, while providing practical examples and tips to help you fully understand and utilize SymPy's capabilities.
 Before diving in, let's address a common question:
 
-<blockquote>**Q: Why should I choose SymPy over other CAS libraries?**
+- **Q: Why should I choose SymPy over other CAS libraries?**
 A: SymPy offers several advantages over other CAS libraries, such as its pure Python implementation, ease of integration with other Python libraries, and extensive documentation. Moreover, it's open-source and constantly evolving, with an active community of contributors.
-</blockquote>With that said, let's start our journey!
-```
+
+With that said, let's start our journey!
 
 <a name="installation"></a>
 
@@ -227,7 +228,9 @@ is_prime = sp.isprime(7)
 
 SymPy has modules for classical mechanics, quantum mechanics, optics, and thermodynamics. Here are some examples:
 
-- `Lagrangian`: Constructs the Lagrangian for a system of particles.*`Hamiltonian`: Constructs the Hamiltonian for a system of particles.* `MatrixOptics`: Performs matrix optics calculations.
+- `Lagrangian`: Constructs the Lagrangian for a system of particles.*
+- `Hamiltonian`: Constructs the Hamiltonian for a system of particles.*
+- `MatrixOptics`: Performs matrix optics calculations.
 
 ```python
 from sympy.physics.mechanics import Lagrangian, Particle, ReferenceFrame, dynamicsymbols
@@ -281,7 +284,8 @@ sp.plotting.plot3d(g, (x, -sp.pi, sp.pi), (y, -sp.pi, sp.pi))
 
 SymPy can generate code in various languages, such as C, Fortran, and Octave, for numerical evaluation of expressions. Here are some examples:
 
-- `lambdify()`: Converts a SymPy expression to a numerical function.* `codegen()`: Generates code in a specified language.
+- `lambdify()`: Converts a SymPy expression to a numerical function.*
+- `codegen()`: Generates code in a specified language.
 
 ```python
 import numpy as np
@@ -305,15 +309,19 @@ f_prime = sp.diff(f, x)
 
 ## 13. Frequently Asked Questions
 
-<blockquote>**Q: How can I improve the performance of my SymPy code?**
+- **Q: How can I improve the performance of my SymPy code?**
 A: SymPy can be slow for certain types of calculations. To improve performance, consider using `lambdify()` to convert expressions to numerical functions, or use `codegen()` to generate code in other languages.
-</blockquote><blockquote>**Q: Can SymPy work with other Python libraries, such as NumPy or SciPy?**
+
+- **Q: Can SymPy work with other Python libraries, such as NumPy or SciPy?**
 A: Yes, SymPy is compatible with other Python libraries. You can use `lambdify()` to create a function that works with NumPy arrays, or directly use SymPy objects with SciPy functions when appropriate. However, be aware that mixing SymPy and other libraries may sometimes require additional care and attention to ensure correct behavior.
-</blockquote><blockquote>**Q: Can SymPy handle symbolic matrices and linear algebra operations?**
+
+- **Q: Can SymPy handle symbolic matrices and linear algebra operations?**
 A: Yes, SymPy can handle symbolic matrices and perform various linear algebra operations, such as matrix multiplication, inversion, determinant calculation, and eigenvalue/eigenvector computation.
-</blockquote><blockquote>**Q: Does SymPy support multivariate calculus?**
+
+- **Q: Does SymPy support multivariate calculus?**
 A: Yes, SymPy supports multivariate calculus, including partial differentiation, multiple integration, gradient, divergence, and curl.
-</blockquote><a name="conclusion"></a>
+
+<a name="conclusion"></a>
 
 ## 14. Conclusion
 
