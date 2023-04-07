@@ -2,33 +2,31 @@
 layout: post
 title: How to Master Sympy
 subtitle: A Comprehensive Guide for Python Users
-# cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
 ## Table of Contents
 
-1. [Introduction to SymPy](#introduction" target="_new)
-2. [Installation and Basic Configuration](#installation" target="_new)
-3. [Working with Expressions](#expressions" target="_new)
-4. [Simplification and Expansion](#simplification" target="_new)
-5. [Calculus](#calculus" target="_new)
-6. [Algebraic Manipulations](#algebra" target="_new)
-7. [Solving Equations](#equations" target="_new)
-8. [Linear Algebra](#linear-algebra" target="_new)
-9. [Discrete Mathematics](#discrete-math" target="_new)
-10. [Physics and Mechanics](#physics" target="_new)
-11. [Plotting](#plotting" target="_new)
-12. [Code Generation and Optimization](#code-generation" target="_new)
-13. [Frequently Asked Questions](#faq" target="_new)
-14. [Conclusion](#conclusion" target="_new)
-15. [External Resources](#resources" target="_new)
+- [Table of Contents](#table-of-contents)
+- [1. Introduction to SymPy](#1-introduction-to-sympy)
+- [3. Working with Expressions](#3-working-with-expressions)
+- [4. Simplification and Expansion](#4-simplification-and-expansion)
+- [5. Calculus](#5-calculus)
+- [6. Algebraic Manipulations](#6-algebraic-manipulations)
+- [7. Solving Equations](#7-solving-equations)
+- [8. Linear Algebra](#8-linear-algebra)
+- [9. Discrete Mathematics](#9-discrete-mathematics)
+- [10. Physics and Mechanics](#10-physics-and-mechanics)
+- [11. Plotting](#11-plotting)
+- [12. Code Generation and Optimization](#12-code-generation-and-optimization)
+- [13. Frequently Asked Questions](#13-frequently-asked-questions)
+- [14. Conclusion](#14-conclusion)
+- [15. External Resources](#15-external-resources)
 
-```html
 <a name="introduction"></a>
-```
 
 ## 1. Introduction to SymPy
 
@@ -36,15 +34,12 @@ Welcome to the comprehensive guide on mastering SymPy for advanced Python users!
 In this guide, we will cover a wide range of topics, from basic operations to advanced techniques, while providing practical examples and tips to help you fully understand and utilize SymPy's capabilities.
 Before diving in, let's address a common question:
 
-```html
 <blockquote>**Q: Why should I choose SymPy over other CAS libraries?**
 A: SymPy offers several advantages over other CAS libraries, such as its pure Python implementation, ease of integration with other Python libraries, and extensive documentation. Moreover, it's open-source and constantly evolving, with an active community of contributors.
 </blockquote>With that said, let's start our journey!
 ```
 
-```html
 <a name="installation"></a>
-```
 
 ## 2. Installation and Basic Configuration
 
@@ -52,7 +47,6 @@ First, we need to install SymPy. You can do so using pip:
 
 ```bash
 pip install sympy
-
 ```
 
 Now, let's import SymPy and configure its pretty printing capabilities, which will make our output more readable:
@@ -63,9 +57,7 @@ sp.init_printing()
 
 ```
 
-```html
 <a name="expressions"></a>
-```
 
 ## 3. Working with Expressions
 
@@ -92,15 +84,13 @@ expr1.subs({x: 1, y: 2, z: 3})
 
 ```
 
-```html
 <a name="simplification"></a>
-```
 
 ## 4. Simplification and Expansion
 
 SymPy offers several functions to simplify and expand expressions. Here are some examples:
 
-* `simplify()`: Simplifies an expression.*`expand()`: Expands an expression.* `factor()`: Factors an expression.* `collect()`: Collects common powers of a term in an expression.
+- `simplify()`: Simplifies an expression.*`expand()`: Expands an expression.* `factor()`: Factors an expression.* `collect()`: Collects common powers of a term in an expression.
 
 ```python
 expr = (x + y)**2
@@ -108,16 +98,14 @@ expanded_expr = sp.expand(expr)
 factored_expr = sp.factor(expanded_expr)
 ```
 
-```html
 <a name="calculus"></a>
-```
 
 ## 5. Calculus
 
 SymPy provides powerful calculus capabilities, such as differentiation, integration, limits, and series expansion. Here are some examples:
 
-* `diff()`: Differentiates an expression with respect to a variable.
-* `integrate()`: Integrates an expression with respect to a variable.*`limit()`: Computes the limit of an expression as a variable approaches a point.* `series()`: Expands an expression in a power series.
+- `diff()`: Differentiates an expression with respect to a variable.
+- `integrate()`: Integrates an expression with respect to a variable.*`limit()`: Computes the limit of an expression as a variable approaches a point.* `series()`: Expands an expression in a power series.
 
 ```python
 # Differentiation
@@ -137,15 +125,13 @@ i = sp.cos(x)
 i_series = i.series(x, 0, 10)
 ```
 
-```html
 <a name="algebra"></a>
-```
 
 ## 6. Algebraic Manipulations
 
 SymPy provides various functions for algebraic manipulation, such as simplification, substitution, and equation solving. Here are some examples:
 
-* `simplify()`: Simplifies an expression.*`subs()`: Substitutes a value or expression for a symbol.* `solve()`: Solves an equation or system of equations.
+- `simplify()`: Simplifies an expression.*`subs()`: Substitutes a value or expression for a symbol.* `solve()`: Solves an equation or system of equations.
 
 ```python
 expr = x**3 - 3*x**2 + 3*x - 1
@@ -154,15 +140,13 @@ simplified_expr = sp.simplify(expr)
 sol = sp.solve(expr, x)
 ```
 
-```html
 <a name="equations"></a>
-```
 
 ## 7. Solving Equations
 
 SymPy can solve a wide variety of equations, including algebraic, trigonometric, and differential equations. Here are some examples:
 
-* `solve()`: Solves an algebraic equation.*`solve_trig()`: Solves a trigonometric equation.* `dsolve()`: Solves a differential equation.
+- `solve()`: Solves an algebraic equation.*`solve_trig()`: Solves a trigonometric equation.* `dsolve()`: Solves a differential equation.
 
 ```python
 
@@ -184,15 +168,13 @@ sol3 = sp.dsolve(eq3, y(x))
 
 ```
 
-```html
 <a name="linear-algebra"></a>
-```
 
 ## 8. Linear Algebra
 
 SymPy supports various linear algebra operations, such as matrix operations, eigenvalues, and eigenvectors. Here are some examples:
 
-* `Matrix()`: Creates a matrix.*`eigenvals()`: Computes the eigenvalues of a matrix.* `eigenvects()`: Computes the eigenvectors of a matrix.
+- `Matrix()`: Creates a matrix.*`eigenvals()`: Computes the eigenvalues of a matrix.* `eigenvects()`: Computes the eigenvectors of a matrix.
 
 ```python
 A = sp.Matrix([[1, 2], [3, 4]])
@@ -215,15 +197,13 @@ eigenvalues = A.eigenvals()
 eigenvectors = A.eigenvects()
 ```
 
-```html
 <a name="discrete-math"></a>
-```
 
 ## 9. Discrete Mathematics
 
 SymPy offers functions for working with discrete mathematics, such as combinatorics, graph theory, and number theory. Here are some examples:
 
-* `binomial()`: Computes the binomial coefficient.*`factorial()`: Computes the factorial of a number.* `prime()`: Checks if a number is prime.
+- `binomial()`: Computes the binomial coefficient.*`factorial()`: Computes the factorial of a number.* `prime()`: Checks if a number is prime.
 
 ```python
 
@@ -241,15 +221,13 @@ is_prime = sp.isprime(7)
 
 ```
 
-```html
 <a name="physics"></a>
-```
 
 ## 10. Physics and Mechanics
 
 SymPy has modules for classical mechanics, quantum mechanics, optics, and thermodynamics. Here are some examples:
 
-* `Lagrangian`: Constructs the Lagrangian for a system of particles.*`Hamiltonian`: Constructs the Hamiltonian for a system of particles.* `MatrixOptics`: Performs matrix optics calculations.
+- `Lagrangian`: Constructs the Lagrangian for a system of particles.*`Hamiltonian`: Constructs the Hamiltonian for a system of particles.* `MatrixOptics`: Performs matrix optics calculations.
 
 ```python
 from sympy.physics.mechanics import Lagrangian, Particle, ReferenceFrame, dynamicsymbols
@@ -277,15 +255,13 @@ lens = ThinLens(focal_length)
 transfer_matrix = RayTransferMatrix(lens)
 ```
 
-```html
 <a name="plotting"></a>
-```
 
 ## 11. Plotting
 
 SymPy can create plots of expressions and functions, including 2D and 3D plots. Here are some examples:
 
-* `plot()`: Plots a 2D graph of a function.*`plot3d()`: Plots a 3D graph of a function.
+- `plot()`: Plots a 2D graph of a function.*`plot3d()`: Plots a 3D graph of a function.
 
 ```python
 # 2D Plot
@@ -299,15 +275,13 @@ g = sp.sin(x) * sp.cos(y)
 sp.plotting.plot3d(g, (x, -sp.pi, sp.pi), (y, -sp.pi, sp.pi))
 ```
 
-```html
 <a name="code-generation"></a>
-```
 
 ## 12. Code Generation and Optimization
 
 SymPy can generate code in various languages, such as C, Fortran, and Octave, for numerical evaluation of expressions. Here are some examples:
 
-* `lambdify()`: Converts a SymPy expression to a numerical function.* `codegen()`: Generates code in a specified language.
+- `lambdify()`: Converts a SymPy expression to a numerical function.* `codegen()`: Generates code in a specified language.
 
 ```python
 import numpy as np
@@ -327,13 +301,10 @@ f_prime = sp.diff(f, x)
 
 ```
 
-```html
 <a name="faq"></a>
-```
 
 ## 13. Frequently Asked Questions
 
-```html
 <blockquote>**Q: How can I improve the performance of my SymPy code?**
 A: SymPy can be slow for certain types of calculations. To improve performance, consider using `lambdify()` to convert expressions to numerical functions, or use `codegen()` to generate code in other languages.
 </blockquote><blockquote>**Q: Can SymPy work with other Python libraries, such as NumPy or SciPy?**
@@ -343,24 +314,21 @@ A: Yes, SymPy can handle symbolic matrices and perform various linear algebra op
 </blockquote><blockquote>**Q: Does SymPy support multivariate calculus?**
 A: Yes, SymPy supports multivariate calculus, including partial differentiation, multiple integration, gradient, divergence, and curl.
 </blockquote><a name="conclusion"></a>
-```
 
 ## 14. Conclusion
 
 In this comprehensive guide, we have covered various aspects of SymPy, from basic operations to advanced techniques. By now, you should have a solid understanding of how to use SymPy effectively in your Python projects. With practice and experimentation, you will be able to master SymPy and fully harness its power for symbolic mathematics.
 
-```html
 <a name="resources"></a>
-```
 
 ## 15. External Resources
 
 To further enhance your SymPy knowledge, consider exploring these external resources:
 
-1. [SymPy Official Documentation](https://docs.sympy.org/latest/index.html" target="_new)
-2. [SymPy Tutorial](https://docs.sympy.org/latest/tutorial/index.html" target="_new)
-3. [SymPy Live](https://live.sympy.org/" target="_new): An interactive online environment to try SymPy without installing it.
-4. [SymPy GitHub Repository](https://github.com/sympy/sympy" target="_new): Browse the source code and contribute to the project.
-5. [SymPy Examples](https://github.com/sympy/sympy/wiki/Quick-examples" target="_new): A collection of short examples demonstrating various SymPy features.
-6. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/" target="_new): A book that covers various Python libraries, including a section on SymPy.
+1. [SymPy Official Documentation](https://docs.sympy.org/latest/index.html")
+2. [SymPy Tutorial](https://docs.sympy.org/latest/tutorial/index.html")
+3. [SymPy Live](https://live.sympy.org/"): An interactive online environment to try SymPy without installing it.
+4. [SymPy GitHub Repository](https://github.com/sympy/sympy"): Browse the source code and contribute to the project.
+5. [SymPy Examples](https://github.com/sympy/sympy/wiki/Quick-examples"): A collection of short examples demonstrating various SymPy features.
+6. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/"): A book that covers various Python libraries, including a section on SymPy.
 Remember, practice is essential for mastery. We encourage you to apply what you've learned in this guide to real-world problems and challenges. Good luck on your journey with SymPy and symbolic mathematics!
