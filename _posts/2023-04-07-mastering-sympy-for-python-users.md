@@ -246,7 +246,7 @@ SymPy has modules for classical mechanics, quantum mechanics, optics, and thermo
 - `MatrixOptics`: Performs matrix optics calculations.
 
 ```python
-from sympy.physics.mechanics import Lagrangian, Particle, ReferenceFrame, dynamicsymbols
+from sympy.physics.mechanics import Lagrangian, Particle, Point, ReferenceFrame, dynamicsymbols
 from sympy.physics.quantum import Commutator, Dagger, Operator
 from sympy.physics.optics import ThinLens, RayTransferMatrix
 
@@ -255,8 +255,12 @@ from sympy.physics.optics import ThinLens, RayTransferMatrix
 m, g = sp.symbols('m g')
 x, v = dynamicsymbols('x v')
 N = ReferenceFrame('N')
-P = Particle('P', N.origin.locatenew('P_pos', x *N.x), m)
+O = Point('O')
+P_pos = O.locatenew('P_pos', x * N.x)
+P_pos.set_vel(N, v * N.x)  # Set the velocity of point P_pos in ReferenceFrame N
+P = Particle('P', P_pos, m)
 L = Lagrangian(N, P) - m * g * x
+
 
 # Quantum Mechanics: Commutator
 
