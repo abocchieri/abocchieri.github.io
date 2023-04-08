@@ -5,7 +5,7 @@ subtitle: A Comprehensive Guide for Python Users
 cover-img: /assets/img/forrest-gump.jpg
 thumbnail-img: /assets/img/sympy.png
 share-img: /assets/img/forrest-gump.jpg
-tags: [books, test]
+tags: [maths, physics]
 ---
 
 > "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry."
