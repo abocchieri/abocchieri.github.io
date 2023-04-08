@@ -8,6 +8,10 @@ share-img: /assets/img/forrest-gump.jpg
 tags: [books, test]
 ---
 
+``Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.``
+
+Richard P. Feynman
+  
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -260,7 +264,6 @@ P_pos = O.locatenew('P_pos', x * N.x)
 P_pos.set_vel(N, v * N.x)  # Set the velocity of point P_pos in ReferenceFrame N
 P = Particle('P', P_pos, m)
 L = Lagrangian(N, P) - m * g * x
-
 
 # Quantum Mechanics: Commutator
 
