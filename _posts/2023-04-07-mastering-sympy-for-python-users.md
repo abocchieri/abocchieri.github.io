@@ -281,6 +281,9 @@ SymPy can create plots of expressions and functions, including 2D and 3D plots. 
 - `plot3d()`: Plots a 3D graph of a function.
 
 ```python
+
+x, y = sp.symbols('x y')
+
 # 2D Plot
 
 f = sp.sin(x)
