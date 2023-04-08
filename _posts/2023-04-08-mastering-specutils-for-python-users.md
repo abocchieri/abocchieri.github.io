@@ -32,7 +32,7 @@ tags: [spectroscopy, astronomy]
 
 ## 1. Introduction to Specutils
 
-wide range of tools to manipulate and analyze spectral data. Developed by the Astropy Project, Specutils is built on top of Astropy and is designed to be extensible and easy to use.
+Specutils is a Python library designed for astronomical spectroscopy, providing a wide range of tools to manipulate and analyze spectral data. Developed by the Astropy Project, Specutils is built on top of Astropy and is designed to be extensible and easy to use.
 In this guide, we will cover various aspects of Specutils, from loading and saving spectra to advanced analysis techniques. We will provide practical examples and tips to help you fully understand and utilize Specutils' capabilities.
 
 <a name="installation"></a>
