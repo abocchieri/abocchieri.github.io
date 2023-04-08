@@ -35,7 +35,7 @@ tags: [books, test]
 
 ## 1. Introduction to SymPy
 
-Welcome to the comprehensive guide on mastering SymPy for Python users! SymPy is a powerful Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+SymPy is a powerful Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
 In this guide, we will cover a wide range of topics, from basic operations to advanced techniques, while providing practical examples and tips to help you fully understand and utilize SymPy's capabilities.
 Before diving in, let's address a common question:
 
