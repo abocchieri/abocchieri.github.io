@@ -353,4 +353,5 @@ To further enhance your SymPy knowledge, consider exploring these external resou
 4. [SymPy GitHub Repository](https://github.com/sympy/sympy): Browse the source code and contribute to the project.
 5. [SymPy Examples](https://github.com/sympy/sympy/wiki/Quick-examples): A collection of short examples demonstrating various SymPy features.
 6. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): A book that covers various Python libraries, including a section on SymPy.
+
 Remember, practice is essential for mastery. We encourage you to apply what you've learned in this guide to real-world problems and challenges. Good luck on your journey with SymPy and symbolic mathematics!
