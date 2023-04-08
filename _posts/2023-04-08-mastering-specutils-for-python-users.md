@@ -204,7 +204,7 @@ Specutils is a powerful library for handling and analyzing spectroscopic data in
 
 For further information, tutorials, and examples, please refer to the following resources:
 
-1. [Specutils documentation:](https://specutils.readthedocs.io/)
-2. [Specutils GitHub repository:](https://github.com/astropy/specutils)
-3. [Astropy documentation:](https://docs.astropy.org/)
-4. [Astropy GitHub repository:](https://github.com/ast)
+1. [Specutils documentation](https://specutils.readthedocs.io/)
+2. [Specutils GitHub repository](https://github.com/astropy/specutils)
+3. [Astropy documentation](https://docs.astropy.org/)
+4. [Astropy GitHub repository](https://github.com/ast)
