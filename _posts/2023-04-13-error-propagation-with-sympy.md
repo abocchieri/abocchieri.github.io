@@ -160,9 +160,9 @@ dθ_out = sp.sqrt((sp.diff(output_ray[1], h_in) * dh_in)**2 + (sp.diff(output_ra
 Finally, let's calculate the output ray and its uncertainties for a specific example. Assume `h_in = 1 mm`, `dh_in = 0.01 mm`, `θ_in = 0.01 rad`, `dθ_in = 0.0001 rad`, `f = 50 mm`, and `df = 0.5 mm`:
 
 ```python
-output_ray_result = output_ray.subs({h_in: 1, θ_in: 0.01, f: 50})
-dh_out_result = dh_out.subs({h_in: 1, dh_in: 0.01, θ_in: 0.01, dθ_in: 0.0001, f: 50, df: 0.5})
-dθ_out_result = dθ_out.subs({h_in: 1, dh_in: 0.01, θ_in: 0.01, dθ_in: 0.0001, f: 50, df: 0.5})
+output_ray_result = output_ray.subs({h_in: 1, θ_in: 0.01, n: 1.5, R1: 100, R2: -100})
+dh_out_result = dh_out.subs({dh_in: 0.01})
+dθ_out_result = dθ_out.subs({dh_in: 0.01, dθ_in: 0.0001, n: 1.5, R1: 100, R2: -100})
 
 print("Output ray:", output_ray_result)
 print("Uncertainty in h_out:", dh_out_result)
