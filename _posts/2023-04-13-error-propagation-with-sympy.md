@@ -62,9 +62,6 @@ y, dy = sp.symbols('y dy')
 
 z = x + y
 dz = sp.sqrt(dx**2 + dy**2)
-
-print("Sum (z):", z)
-print("Uncertainty in sum (dz):", dz)
 ```
 
 Now, let's evaluate the expression for a specific example: `x = 5 ± 0.1` and `y = 10 ± 0.2`.
