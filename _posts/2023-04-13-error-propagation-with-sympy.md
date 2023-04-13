@@ -23,7 +23,7 @@ tags: [maths, physics]
   - [Example 2: Lens Maker's Equation](#example-2-lens-makers-equation)
 - [5. Error Propagation with Matrices](#5-error-propagation-with-matrices)
   - [Example 3: ABCD Matrix for a Thin Lens](#example-3-abcd-matrix-for-a-thin-lens)
-- [6. Q\&A Dialogue: Addressing Common Questions and Concerns](#6-qa-dialogue-addressing-common-questions-and-concerns)
+- [6. Frequently Asked Questions](#6-frequently-asked-questions)
 - [7. Conclusion](#7-conclusion)
 - [8. External Resources for Further Learning](#8-external-resources-for-further-learning)
 
@@ -173,7 +173,7 @@ print("Uncertainty in θ_out:", dθ_out_result)
 
 <a name="qa-dialogue-addressing-common-questions-and-concerns"></a>
 
-## 6. Q&A Dialogue: Addressing Common Questions and Concerns
+## 6. Frequently Asked Questions
 
 **Q: How does Sympy compare to other libraries for error propagation?**
 
