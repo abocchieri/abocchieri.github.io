@@ -2,9 +2,9 @@
 layout: post
 title: Error Propagation with Sympy
 subtitle: A Comprehensive Guide for Python Users
-cover-img: /assets/img/forrest-gump.jpg
+cover-img: /assets/img/compass.jpg
 thumbnail-img: /assets/img/pair-of-dice.jpeg
-share-img: /assets/img/forrest-gump.jpg
+share-img: /assets/img/compass.jpg
 tags: [maths, physics]
 ---
 
