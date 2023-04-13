@@ -128,17 +128,7 @@ In this section, we will demonstrate how to propagate uncertainties through matr
 
 Consider the ABCD matrix for a thin lens:
 
-$$
-\begin{pmatrix}
-A & B \\
-C & D
-\end{pmatrix}
-=
-\begin{pmatrix}
-1 & 0 \\
--\frac{1}{f} & 1
-\end{pmatrix}
-$$
+![ABCD Matrix for a Thin Lens](/assets/img/ABCD-thin-lens.png)
 
 where f is the focal length of the lens. We have an input ray given by a column vector `[h_in, θ_in]` and want to find the output ray `[h_out, θ_out]` and its uncertainty.
 
