@@ -31,7 +31,7 @@ tags: [maths, physics]
 
 ## 1. Introduction
 
-Mastering error propagation is essential when working with experimental data, especially in fields such as physics, engineering, and other experimental sciences. In this comprehensive guide, we will explore how to perform error propagation using the Sympy library. We assume you are already familiar with Sympy basics; if not, please refer to our previous post on Sympy, at [How to Master Sympy](https://andreabocchieri.com/2023-04-07-mastering-sympy-for-python-users/).
+Mastering error propagation is essential when working with experimental data, especially in fields such as physics, engineering, and other experimental sciences. In this comprehensive guide, we will explore how to perform error propagation using the Sympy library. We assume you are already familiar with Sympy basics; if not, please refer to our previous post on Sympy, [How to Master Sympy](https://andreabocchieri.com/2023-04-07-mastering-sympy-for-python-users/).
 
 Error propagation is the process of determining the uncertainty in a derived quantity based on the uncertainties in the input quantities. Uncertainties can arise from various sources, such as measurement errors, rounding errors, or systematic biases. By propagating uncertainties through a calculation, we can estimate the overall uncertainty in the final result, providing a more accurate and reliable understanding of our data.
 
