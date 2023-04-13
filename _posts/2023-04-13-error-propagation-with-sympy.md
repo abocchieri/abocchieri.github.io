@@ -5,7 +5,7 @@ subtitle: A Comprehensive Guide for Python Users
 cover-img: /assets/img/compass.jpg
 thumbnail-img: /assets/img/pair-of-dice.jpeg
 share-img: /assets/img/compass.jpg
-tags: [maths, physics]
+tags: [maths, physics, statistics]
 ---
 
 > "The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful."
