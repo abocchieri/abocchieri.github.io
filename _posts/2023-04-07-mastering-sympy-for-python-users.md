@@ -11,7 +11,7 @@ tags: [maths, physics]
 > "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry."
 >
 > _Richard P. Feynman_
-  
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
