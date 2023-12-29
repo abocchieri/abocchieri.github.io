@@ -8,7 +8,7 @@ To date, I have co-authored 10+ publications, of which 1 are first-author works 
 
 ## Recent first-author publications
 
-- **Bocchieri, A.**, Mugnai, L. V., Pascale, E., Changeat, Q., & Tinetti, G. (2022). 
+- **Bocchieri, A.**, Mugnai, L. V., Pascale, E., Changeat, Q., & Tinetti, G. (2022).
     Detecting molecules in Ariel low resolution transmission spectra. *The Experimental Astronomy journal*. ([doi.org](https://doi.org/10.1007/s10686-023-09911-x))
 
 ## Recent co-authored publications
@@ -16,7 +16,7 @@ To date, I have co-authored 10+ publications, of which 1 are first-author works 
 ### Peer-reviewed papers
 
 - Zak, J., **Bocchieri, A.**, Sedaghati, E., & al. (2023).
-    How do wasps fly? Stellar obliquity measurements of six gas giants. *Submitted to the Astronomy \& Astrophysics journal*
+    How do wasps fly? Stellar obliquity measurements of six gas giants. *Submitted to the Astronomy & Astrophysics journal*
 
 - Mugnai, L. V., Pascale, E., **Bocchieri, A.**, & al. (2023).
     ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. *Submitted to the Experimental Astronomy journal*
@@ -25,7 +25,7 @@ To date, I have co-authored 10+ publications, of which 1 are first-author works 
     ExoRad 2.0: The generic point source radiometric model. *Journal of Open Source Software*. ([doi.org](https://doi.org/10.21105/joss.05348))
 
 - Jaziri, A. Y., Pluriel, W., **Bocchieri, A.**, & al. (2023).
-    ARES VI: Are 1D retrieval models accurate enough to characterize exo-atmospheres with transmission spectroscopy in the era of JWST and Ariel?. *Accepted by the Astronomy \& Astrophysics journal*
+    ARES VI: Are 1D retrieval models accurate enough to characterize exo-atmospheres with transmission spectroscopy in the era of JWST and Ariel?. *Accepted by the Astronomy & Astrophysics journal*
 
 - Mugnai, L. V., Al-Refaie, **Bocchieri, A.**, Changeat, Q., Pascale, E., & Tinetti, G. (2021).
     Alfnoor: Assessing the information content of Ariel’s low-resolution spectra with planetary population studies. *The Astronomical Journal, 162(6), 288.* ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....162..288M/abstract))
