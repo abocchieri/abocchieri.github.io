@@ -8,7 +8,9 @@ subtitle:
 
 ### M.Sc. Thesis Co-Advisor
 
-* Tommaso Carrarini, ``Spettroscopia di transito del telescopio James Webb: impatto di rumore e saturazione nella gestione dei dati'' (2023-present)
+* Adriana Polci, ``Exoplanet observations through the lens of the Fisher information formalism'' (2023-present)
+
+* Tommaso Carrarini, ``Spettroscopia di transito del telescopio James Webb: impatto di rumore e saturazione nella gestione dei dati'' (2023)
 
 * Leonardo Altamura, ``Pointing jitter noise reduction in HD209458 out-of-transit observation'' (2022)
 
