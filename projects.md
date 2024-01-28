@@ -16,6 +16,10 @@ subtitle:
 <img src="https://abocchieri.github.io/assets/img/taurex-3-oct2021.png" alt="taurex-emcee" width="20%" height="20%" style="float:left; padding-right:30px">
 [taurex-emcee](https://taurex-emcee.readthedocs.io/en/latest/) is a plugin for the [TauREx 3.1](https://taurex3-public.readthedocs.io/en/latest/) atmospheric retrieval framework that extends the choice of sampling methods available to the user. The plugin provides an interface to the [emcee](https://emcee.readthedocs.io/en/stable/) sampler, a popular affine-invariant ensemble sampler widely used in the astronomy community. Running the sampler to convergence is automated through the autoemcee package, which also supports MPI parallelization. Thus, the taurex-emcee plugin allows users to easily launch parallelized retrievals of atmospheric spectra with emcee. This enables reliable, efficient, and fast retrievals.
 
+### Alfnoor
+<img src="https://abocchieri.github.io/assets/img/alfnoor.png" alt="alfnoor" width="20%" height="20%" style="float:left; padding-right:30px">
+Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabilities of TauREx to populations of atmospheres. It is used in the context of Ariel to simulate the mission performances (see [here](https://arxiv.org/abs/2003.01839), [here](https://arxiv.org/abs/2110.00503), and [here](https://arxiv.org/abs/2309.06817)), and on real data to perform large scale population analyses (see [here](https://arxiv.org/abs/2204.11729)).
+
 ## Exoplanet Missions
 
 ### Ariel
