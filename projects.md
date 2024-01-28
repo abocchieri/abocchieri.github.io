@@ -8,11 +8,13 @@ subtitle:
 
 ### PAOS
 
-<img src="https://abocchieri.github.io/assets/img/paos_logo.png" alt="ariel" width="20%" height="20%" style="float:left; padding-right:30px">
+<img src="https://abocchieri.github.io/assets/img/paos_logo.png" alt="paos" width="20%" height="20%" style="float:left; padding-right:30px">
+[PAOS](https://paos.readthedocs.io/en/latest/) is a reliable, user-friendly, and open-source Physical Optics Propagation code that integrates an implementation of Fourier optics. It employs the Fresnel approximation for efficient and accurate optical system simulations. By including a flexible configuration file and paraxial ray-tracing, PAOS seamlessly facilitates the study of various optical systems, including non-axial symmetric ones, as long as the Fresnel approximation remains valid.
 
 ### TauREx-emcee
 
-<img src="https://abocchieri.github.io/assets/img/taurex-3-oct2021.png" alt="ariel" width="20%" height="20%" style="float:left; padding-right:30px">
+<img src="https://abocchieri.github.io/assets/img/taurex-3-oct2021.png" alt="taurex-emcee" width="20%" height="20%" style="float:left; padding-right:30px">
+[taurex-emcee](https://taurex-emcee.readthedocs.io/en/latest/) is a plugin for the [TauREx 3.1](https://taurex3-public.readthedocs.io/en/latest/) atmospheric retrieval framework that extends the choice of sampling methods available to the user. The plugin provides an interface to the [emcee](https://emcee.readthedocs.io/en/stable/) sampler, a popular affine-invariant ensemble sampler widely used in the astronomy community. Running the sampler to convergence is automated through the autoemcee package, which also supports MPI parallelization. Thus, the taurex-emcee plugin allows users to easily launch parallelized retrievals of atmospheric spectra with emcee. This enables reliable, efficient, and fast retrievals.
 
 ## Exoplanet Missions
 
@@ -30,4 +32,4 @@ subtitle:
 
 ### ExoClock
 
-<img src="https://abocchieri.github.io/assets/img/exoclock_ariel.png" alt="ariel" width="20%" height="20%" style="float:left; padding-right:30px">
+<img src="https://abocchieri.github.io/assets/img/exoclock_ariel.png" alt="exoclock" width="20%" height="20%" style="float:left; padding-right:30px">
