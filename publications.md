@@ -8,9 +8,12 @@ To date, I have co-authored 10+ publications, of which 1 are first-author works 
 
 ## Recent first-author publications
 
+- **Bocchieri, A.**, Changeat, Q., Mugnai, L. V., and Pascale, E. (2024).
+    taurex-emcee: automated, parallelized atmospheric retrievals with TauREx 3.1 and the emcee sampler. *Submitted to the Journal of Optics*
+
 - **Bocchieri, A.**, Mugnai, L. V., and Pascale, E. (2024).
     PAOS: a fast, modern, and reliable Python package for Physical Optics studies. *Submitted to the Journal of Optics*
-    
+
 - **Bocchieri, A.**, Mugnai, L. V., Pascale, E., Changeat, Q., & Tinetti, G. (2022).
     Detecting molecules in Ariel low resolution transmission spectra. *The Experimental Astronomy journal*. ([doi.org](https://doi.org/10.1007/s10686-023-09911-x))
 
