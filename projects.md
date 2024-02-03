@@ -32,6 +32,13 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 <img src="https://abocchieri.github.io/assets/img/excite.jpeg" alt="excite" width="20%" height="20%" style="float:left;padding-right:30px">
 [EXCITE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12184/2629373/The-EXoplanet-Climate-Infrared-TElescope-EXCITE/10.1117/12.2629373.short?SSO=1) (The EXoplanet Climate Infrared TElescope) is a balloon-borne spectrograph that will address the limitations of current space-based NIR observatories while complementing and maximizing the science return of JWST. With a 0.5 m-class telescope, EXCITE will measure spectroscopic phase curves of bright, short-period extrasolar giant planets (EGPs, or "hot Jupiters") across the 1–4 micron range. EXCITE will continuously observe each target for a full orbital period and use the resulting phase-resolved spectroscopy to map the planet’s temperature profile and chemical composition as a function of longitude. I am member of the EXCITE team and the EXCITE data analysis working group, where I help evaluate the performance of the mission and the target selection strategy.
 
+## Data Challenges
+
+### Ariel Data Challenge
+
+<img src="https://abocchieri.github.io/assets/img/ArielDataChallengeLogo.png" alt="ariel_data_challenge" width="20%" height="20%" style="float:left; padding-right:30px">
+The [Ariel Data Challenge](https://www.ariel-datachallenge.space/) calls on the AI global community to investigate solutions for the interpretation and analysis of exoplanet data. After the success of the previous editions (see [here](https://browse.arxiv.org/abs/2010.15996) and [here](https://browse.arxiv.org/abs/2206.14642)), we are now preparing the 2024 edition. I am a key member of the Ariel Data Challenge 2024 team: I am helping to develop the challenge, the data to be used, and I have developed the state-of-the-art pipeline that will be used to benchmark the performances of the participants.
+
 ## Community Outreach
 
 ### ExoClock
