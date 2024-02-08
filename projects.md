@@ -9,7 +9,7 @@ subtitle:
 ### PAOS
 
 <img src="https://abocchieri.github.io/assets/img/paos_logo.png" alt="paos" width="20%" height="20%" style="float:left; padding-right:30px">
-[PAOS](https://paos.readthedocs.io/en/latest/) is a reliable, user-friendly, and open-source Physical Optics Propagation code that integrates an implementation of Fourier optics. It employs the Fresnel approximation for efficient and accurate optical system simulations. By including a flexible configuration file and paraxial ray-tracing, PAOS seamlessly facilitates the study of various optical systems, including non-axial symmetric ones, as long as the Fresnel approximation remains valid.
+[PAOS](https://paos.readthedocs.io/en/latest/) is a reliable, user-friendly, and open-source Physical Optics Propagation code that integrates an implementation of Fourier optics in Python3.8+. It employs the Fresnel approximation for efficient and accurate optical system simulations. By including a flexible configuration file and paraxial ray-tracing, PAOS seamlessly facilitates the study of various optical systems, including non-axial symmetric ones, as long as the Fresnel approximation remains valid. PAOS is publicly available on [GitHub](https://github.com/arielmission-space/PAOS) and [PyPI](https://pypi.org/project/paos/), so you can install it with a simple `pip install paos`.
 
 ### TauREx-emcee
 
