@@ -11,6 +11,9 @@ To date, I have co-authored 10+ publications, of which 1 are first-author works 
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
     Exploring Synergies between Twinkle and Ariel: a Pilot Study. *Submitted to the Astronomy & Astrophysics journal*
 
+- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E. (2024).
+    PAOS: a fast, modern, and reliable Python package for Physical Optics studies. *Submitted to SPIE*
+
 <!-- - **Bocchieri, A.**, Changeat, Q., Mugnai, L. V., and Pascale, E. (2024).
     taurex-emcee: automated, parallelized atmospheric retrievals with TauREx 3.1 and the emcee sampler. *Submitted to JOSS* -->
 
@@ -43,9 +46,6 @@ To date, I have co-authored 10+ publications, of which 1 are first-author works 
     Alfnoor: Assessing the information content of Ariel’s low-resolution spectra with planetary population studies. *The Astronomical Journal, 162(6), 288.* ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....162..288M/abstract))
   
 ### Conference proceedings
-
-- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E. (2024).
-    PAOS: a fast, modern, and reliable Python package for Physical Optics studies. *Submitted to SPIE*
 
 - Nagler, P. C., Bernard, L., **Bocchieri, A.**, & al. (2022).
     The EXoplanet Climate Infrared TElescope (EXCITE). In *SPIE Astronomical Telescopes + Instrumentation* (2022, Proceedings Volume 12184). ([SPIE](https://doi.org/10.1117/12.2629373))
