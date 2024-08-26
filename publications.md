@@ -9,7 +9,7 @@ To date, I have co-authored 20 publications, of which 3 are first-author works. 
 ## Recent first-author publications
 
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
-    Exploring Synergies between Twinkle and Ariel: a Pilot Study. *Submitted to the Astronomy & Astrophysics journal*
+    Exploring Synergies between Twinkle and Ariel: a Pilot Study. *Submitted to the Experimental Astronomy journal*
 
 - **Bocchieri, A.**, Mugnai, L. V., and Pascale, E. (2024).
     PAOS: a fast, modern, and reliable Python package for Physical Optics studies. *Submitted to SPIE*
