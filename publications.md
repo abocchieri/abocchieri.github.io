@@ -8,6 +8,9 @@ To date, I have co-authored 20 publications, of which 3 are first-author works. 
 
 ## Recent first-author publications
 
+- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., & al. (2024).
+    De-jittering Ariel: an optimized algorithm. *Submitted to the Experimental Astronomy journal*
+
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
     Exploring Synergies between Twinkle and Ariel: a Pilot Study. *Submitted to the Experimental Astronomy journal*
 
