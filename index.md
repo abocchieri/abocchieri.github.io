@@ -7,7 +7,7 @@ share-img: /assets/img/Italy-ISS.jpg
 subtitle: 
 ---
 
-I am a postdoctoral researcher in exoplanet science, supervised by Prof. Enzo Pascale, the mission scientist of Ariel, ESA's mission for the spectroscopic characterization of extrasolar planets. I am affiliated to the Department of Physics at ["Sapienza" University of Rome](https://www.uniroma1.it/) and [INAF](http://www.inaf.it/it) at [Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/).
+I am a postdoctoral researcher in exoplanet science, supervised by Prof. Enzo Pascale, the mission scientist of Ariel, ESA's mission for the spectroscopic characterization of extrasolar planets. I am affiliated to the [Department of Physics](https://www.phys.uniroma1.it/fisica/) at "Sapienza" University of Rome and [INAF-Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/).
 
 My research area is the characterization of extrasolar planets, pursued by spectroscopic observations from the ground and space, modeling of the spectroscopic observables, data analysis, optimization of space instrumentation, especially optical aspects, and control of experimental systematics. 
 
