@@ -26,6 +26,7 @@ navbar-links:
   Projects: "projects"
   Publications: "publications"
   Teaching: "teaching"
+  Blog: "blog"
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
