@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-To date, I have co-authored 20+ publications, of which 4 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
+To date, I have co-authored 35+ publications, of which 7 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
 
 ## Recent first-author publications
 
@@ -23,9 +23,21 @@ To date, I have co-authored 20+ publications, of which 4 are first-author works.
 - **Bocchieri, A.**, Mugnai, L. V., Pascale, E., Changeat, Q., & Tinetti, G. (2022).
     Detecting molecules in Ariel low resolution transmission spectra. *The Experimental Astronomy journal*. ([doi.org](https://doi.org/10.1007/s10686-023-09911-x))
 
+- **Bocchieri, A.**, Mugnai, L. V., & Pascale, E. (2022). 
+    Predicting the optical performance of the Ariel Telescope using PAOS. In *European planetary science congress* (Vol. 16, epsc2022-618). ([doi.org](https://doi.org/10.5194/epsc2022-618))
+
+- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., Changeat, Q., & Tinetti, G. (2022).
+    Detecting molecules in Ariel Tier 1 transmission spectra. In *European planetary science congress* (Vol. 16, epsc2022-416). ([doi.org](https://doi.org/10.5194/epsc2022-416))
+
+- **Bocchieri, A.** & Pascale, E. (2021).
+    PAOS, the Physical Optics Propagation model of the Ariel optical system. In *European planetary science congress* (Vol. 15, epsc2021-241). ([doi.org](https://doi.org/10.5194/epsc2021-241))
+
 ## Recent co-authored publications
 
 ### Peer-reviewed papers
+
+- Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
+    One plus seven: One misaligned and seven aligned orbits of gas giants. Submitted to the Astronomical journal.
 
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
     HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multiplanetary system with ESPRESSO. *Accepted by the Astronomy & Astrophysics journal*. ([arXiv](https://ui.adsabs.harvard.edu/abs/2024arXiv240512409Z))
@@ -34,7 +46,7 @@ To date, I have co-authored 20+ publications, of which 4 are first-author works.
     Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications. *Submitted to RAS Techniques and Instruments (RASTI)*. ([arXiv](https://arxiv.org/abs/2404.02188))
 
 - Zak, J., **Bocchieri, A.**, Sedaghati, E., & al. (2023).
-    Stellar obliquity measurements of six gas giants. *The Astronomy & Astrophysics journal*. ([doi.org](https://ui.adsabs.harvard.edu/abs/2024arXiv240315631Z))
+    Stellar obliquity measurements of six gas giants. Orbital misalignment of WASP-101b and WASP-131b. *The Astronomy & Astrophysics journal*. ([doi.org](https://ui.adsabs.harvard.edu/abs/2024arXiv240315631Z))
 
 - Mugnai, L. V., Pascale, E., **Bocchieri, A.**, & al. (2023).
     ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. *Submitted to the Experimental Astronomy journal*
@@ -47,7 +59,7 @@ To date, I have co-authored 20+ publications, of which 4 are first-author works.
 
 - Mugnai, L. V., Al-Refaie, **Bocchieri, A.**, Changeat, Q., Pascale, E., & Tinetti, G. (2021).
     Alfnoor: Assessing the information content of Ariel’s low-resolution spectra with planetary population studies. *The Astronomical Journal, 162(6), 288.* ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....162..288M/abstract))
-  
+
 ### Conference proceedings
 
 - Nagler, P. C., Bernard, L., **Bocchieri, A.**, & al. (2022).
@@ -65,17 +77,8 @@ To date, I have co-authored 20+ publications, of which 4 are first-author works.
 - Gottini, D., Pace, E., Tozzi, A., Bianucci, G., **Bocchieri, A.**, & al. (2022).
     FEA testing the pre-flight Ariel primary mirror. In *SPIE Astronomical Telescopes + Instrumentation* (2022, Proceedings Volume 12184). ([SPIE](https://doi.org/10.1117/12.2629815))
 
-- **Bocchieri, A.**, Mugnai, L. V., & Pascale, E. (2022). 
-    Predicting the optical performance of the Ariel Telescope using PAOS. In *European planetary science congress* (Vol. 16, epsc2022-618). ([doi.org](https://doi.org/10.5194/epsc2022-618))
-
 - Mugnai, L. V., Pascale, E., A. F., Al-Refaie, **Bocchieri, A.**, Papageorgiou, A.,  & Sarkar, S. (2022).
     ExoSim 2. The new time-domain simulator applied to the Ariel space mission. In *European planetary science congress* (Vol. 16, epsc2022-370). ([doi.org](https://doi.org/10.5194/epsc2022-370))
-
-- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., Changeat, Q., & Tinetti, G. (2022).
-    Detecting molecules in Ariel Tier 1 transmission spectra. In *European planetary science congress* (Vol. 16, epsc2022-416). ([doi.org](https://doi.org/10.5194/epsc2022-416))
-
-- **Bocchieri, A.** & Pascale, E. (2021).
-    PAOS, the Physical Optics Propagation model of the Ariel optical system. In *European planetary science congress* (Vol. 15, epsc2021-241). ([doi.org](https://doi.org/10.5194/epsc2021-241))
 
 - Mugnai, L. V., Pascale, E., **Bocchieri, A.**, Changeat, Q., Al-Refaie, A., & Tinetti, G. (2021).
     Alfnoor: a population study on Ariel’s low resolution transmission spectra. In *European planetary science congress* (Vol. 15, epsc2021–185). ([doi.org](https://doi.org/10.5194/epsc2021-185))
