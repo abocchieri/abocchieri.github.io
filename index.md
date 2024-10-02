@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Andrea Bocchieri
 thumbnail-img: assets/img/navimg-cropped.png
 cover-img: /assets/img/Italy-ISS.jpg
