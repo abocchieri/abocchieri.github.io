@@ -75,10 +75,10 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 ### Peer-reviewed papers
 
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
-  One plus seven: One misaligned and seven aligned orbits of gas giants. Submitted to the Astronomical journal.
+  One plus seven: One misaligned and seven aligned orbits of gas giants. _Submitted to the Astronomical journal_.
 
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
-  HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multiplanetary system with ESPRESSO. _Accepted by the Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202450570))
+  HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multiplanetary system with ESPRESSO. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202450570))
 
 - Chubb, K. L., Robert, S., Sousa-Silva, C., & al. (2024).
   Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications. _RAS Techniques and Instruments (RASTI)_. ([doi.org](https://doi.org/10.1093/rasti/rzae039))
