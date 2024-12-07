@@ -19,9 +19,6 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
   Exploring Synergies between Twinkle and Ariel: a Pilot Study. _Submitted to the Experimental Astronomy journal_
 
-- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E. (2024).
-  PAOS: a fast, modern, and reliable Python package for Physical Optics studies. ([doi.org](https://doi.org/10.1117/12.3018333))
-
 <!-- - **Bocchieri, A.**, Changeat, Q., Mugnai, L. V., and Pascale, E. (2024).
     taurex-emcee: automated, parallelized atmospheric retrievals with TauREx 3.1 and the emcee sampler. *Submitted to JOSS* -->
 
@@ -54,6 +51,9 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 
 - Pascale, E., **Bocchieri, A.**, Eccleston, P., & al. (2024).
   The Atmospheric Remote-sensing Infrared Exoplanet Large-survey sensitivity and performance. In _European planetary science congress_ (2024, Vol. 17). ([doi.org](https://doi.org/10.5194/epsc2024-537))
+
+- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E. (2024).
+  PAOS: a fast, modern, and reliable Python package for Physical Optics studies. ([doi.org](https://doi.org/10.1117/12.3018333))
 
 - Mugnai, L. V., **Bocchieri, A.**, & Pascale, E. (2024).
   ExoSim 2: the new exoplanet observation simulator applied to the Ariel space mission. In _SPIE Astronomical Telescopes + Instrumentation 2024_. ([doi.org](https://doi.org/10.1117/12.3019036))
