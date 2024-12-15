@@ -11,14 +11,24 @@ subtitle:
 <img src="https://abocchieri.github.io/assets/img/paos_logo.png" alt="paos" width="20%" height="20%" style="float:left; padding-right:30px">
 [PAOS](https://paos.readthedocs.io/en/latest/) is a reliable, user-friendly, and open-source Physical Optics Propagation code that integrates an implementation of Fourier optics in Python3.8+. It employs the Fresnel approximation for efficient and accurate optical system simulations. By including a flexible configuration file and paraxial ray-tracing, PAOS seamlessly facilitates the study of various optical systems, including non-axial symmetric ones, as long as the Fresnel approximation remains valid. PAOS is publicly available on [GitHub](https://github.com/arielmission-space/PAOS) and [PyPI](https://pypi.org/project/paos/), so you can install it with a simple `pip install paos`.
 
-### TauREx-emcee
+### ExoRad2.0
 
-<img src="https://abocchieri.github.io/assets/img/taurex-emcee_logo.png" alt="taurex-emcee" width="20%" height="20%" style="float:left; padding-right:30px">
-[taurex-emcee](https://taurex-emcee.readthedocs.io/en/latest/) is a plugin for the [TauREx 3.1](https://taurex3-public.readthedocs.io/en/latest/) atmospheric retrieval framework that extends the choice of sampling methods available to the user. The plugin provides an interface to the [emcee](https://emcee.readthedocs.io/en/stable/) sampler, a popular affine-invariant ensemble sampler widely used in the astronomy community. Running the sampler to convergence is automated through the autoemcee package, which also supports MPI parallelization. Thus, the taurex-emcee plugin allows users to easily launch parallelized retrievals of atmospheric spectra with emcee. This enables reliable, efficient, and fast retrievals. taurex-emcee is publicly available on [GitHub](https://github.com/ExObsSim/taurex-emcee) and [PyPI](https://pypi.org/project/taurex-emcee/), so you can install it with a simple `pip install taurex-emcee`.
+<img src="https://abocchieri.github.io/assets/img/exorad_logo.png" alt="exorad" width="20%" height="20%" style="float:left; padding-right:30px">
+[ExoRad 2.0](https://exorad2-public.readthedocs.io/en/latest/index.html) is a Python package that can be used as a standalone tool or as a library to be integrated in a larger software framework. In the framework of th√e Ariel Space Mission, we developed ExoRad 2.0, a versatile tool to estimate space instruments’ performance. ExoRad 2.0 (`pip install exorad`) is the core of the second version of the Ariel radiometric simulator, ArielRad. The ArielRad software has been extensively used by the consortium to validate the mission design, optimize the instrument performances, flow down the requirements to the subsystems’ level, and prepare Ariel science.
+
+<!-- ### ExoSim2.0
+
+<img src="https://abocchieri.github.io/assets/img/exosim_logo.png" alt="exosim" width="20%" height="20%" style="float:left; padding-right:30px">
+EXOSIM -->
 
 ### Alfnoor
 <img src="https://abocchieri.github.io/assets/img/alfnoor.png" alt="alfnoor" width="20%" height="20%" style="float:left; padding-right:30px">
 Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabilities of TauREx to populations of atmospheres. It is used in the context of Ariel to simulate the mission performances (see [here](https://arxiv.org/abs/2003.01839), [here](https://arxiv.org/abs/2110.00503), and [here](https://arxiv.org/abs/2309.06817)), and on real data to perform large scale population analyses (see [here](https://arxiv.org/abs/2204.11729)).
+
+### TauREx-emcee
+
+<img src="https://abocchieri.github.io/assets/img/taurex-emcee_logo.png" alt="taurex-emcee" width="20%" height="20%" style="float:left; padding-right:30px">
+[taurex-emcee](https://taurex-emcee.readthedocs.io/en/latest/) is a plugin for the [TauREx 3.1](https://taurex3-public.readthedocs.io/en/latest/) atmospheric retrieval framework that extends the choice of sampling methods available to the user. The plugin provides an interface to the [emcee](https://emcee.readthedocs.io/en/stable/) sampler, a popular affine-invariant ensemble sampler widely used in the astronomy community. Running the sampler to convergence is automated through the autoemcee package, which also supports MPI parallelization. Thus, the taurex-emcee plugin allows users to easily launch parallelized retrievals of atmospheric spectra with emcee. This enables reliable, efficient, and fast retrievals. taurex-emcee is publicly available on [GitHub](https://github.com/ExObsSim/taurex-emcee) and [PyPI](https://pypi.org/project/taurex-emcee/), so you can install it with a simple `pip install taurex-emcee`.
 
 ## Exoplanet Missions
 
