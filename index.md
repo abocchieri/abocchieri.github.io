@@ -7,6 +7,13 @@ share-img: /assets/img/Italy-ISS.jpg
 subtitle: Postdoctoral Research Fellow at Sapienza University \\ Ariel Telescope Scientist
 ---
 
-I am a postdoctoral researcher in exoplanet science and the Telescope Scientist for Ariel, ESA's mission for the spectroscopic characterization of extrasolar planets. I am affiliated to the [Department of Physics](https://www.phys.uniroma1.it/fisica/) at "Sapienza" University of Rome and [INAF-Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/).
+Andrea Bocchieri is a researcher in exoplanet science at Sapienza University of Rome. He is the Telescope Scientist for Ariel, ESA's mission for the spectroscopic characterization of extrasolar planets.
 
-My research area is the characterization of extrasolar planets, pursued by spectroscopic observations from the ground and space, modeling of the spectroscopic observables, data analysis, optimization of space instrumentation, especially optical aspects, and control of experimental systematics. 
+His research area is the characterization of extrasolar planets, pursued by spectroscopic observations from the ground and space, modeling of the spectroscopic observables, data analysis, optimization of space instrumentation, especially optical aspects, and control of experimental systematics. 
+
+## Contacts
+
+[Department of Physics](https://www.phys.uniroma1.it/fisica/)
+
+
+[INAF-Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/)
