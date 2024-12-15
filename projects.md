@@ -16,10 +16,10 @@ subtitle:
 <img src="https://abocchieri.github.io/assets/img/exorad_logo.png" alt="exorad" width="20%" height="20%" style="float:left; padding-right:30px">
 [ExoRad 2.0](https://exorad2-public.readthedocs.io/en/latest/index.html) is a Python package that can be used as a standalone tool or as a library to be integrated in a larger software framework. In the framework of th√e Ariel Space Mission, we developed ExoRad 2.0, a versatile tool to estimate space instruments’ performance. ExoRad 2.0 (`pip install exorad`) is the core of the second version of the Ariel radiometric simulator, ArielRad. The ArielRad software has been extensively used by the consortium to validate the mission design, optimize the instrument performances, flow down the requirements to the subsystems’ level, and prepare Ariel science.
 
-<!-- ### ExoSim2.0
+### ExoSim2.0
 
 <img src="https://abocchieri.github.io/assets/img/exosim_logo.png" alt="exosim" width="20%" height="20%" style="float:left; padding-right:30px">
-EXOSIM -->
+[ExoSim 2](https://exosim2-public.readthedocs.io/en/latest/) is a time-domain simulator for exoplanet observations. The software can simulate exoplanetary transit, eclipse and phase curve observations from ground and space-based instruments. Such simulation can capture temporal effects, such as correlated noise and systematics on the light curve. The simulator will produce spectral images like those produced by an actual observation. ExoSim 2 (`pip install exosim` for the public version) has been developed for the Ariel Space Mission, to assess the impact of astronomical and instrumental systematic on astrophysical measurement, and to prepare the data reduction pipeline against realistic data sets.
 
 ### Alfnoor
 <img src="https://abocchieri.github.io/assets/img/alfnoor.png" alt="alfnoor" width="20%" height="20%" style="float:left; padding-right:30px">
