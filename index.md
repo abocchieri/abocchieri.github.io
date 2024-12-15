@@ -13,7 +13,6 @@ His research area is the characterization of extrasolar planets, pursued by spec
 
 ## Contacts
 
-[Department of Physics](https://www.phys.uniroma1.it/fisica/)
+- Sapienza University of Rome, [Department of Physics](https://www.phys.uniroma1.it/fisica/)
 
-
-[INAF-Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/)
+- INAF, [Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/)
