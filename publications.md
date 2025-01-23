@@ -19,6 +19,9 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
   Exploring Synergies between Twinkle and Ariel: a Pilot Study. _Submitted to the Experimental Astronomy journal_
 
+- Mugnai, L. V., **Bocchieri, A.**, Pascale, E., & al. (2023).
+  ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. _Accepted by the Experimental Astronomy journal_. ([doi.org](https://doi.org/10.48550/arXiv.2501.12809))
+
 <!-- - **Bocchieri, A.**, Changeat, Q., Mugnai, L. V., and Pascale, E. (2024).
     taurex-emcee: automated, parallelized atmospheric retrievals with TauREx 3.1 and the emcee sampler. *Submitted to JOSS* -->
 
@@ -82,9 +85,6 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 
 - Chubb, K. L., Robert, S., Sousa-Silva, C., & al. (2024).
   Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications. _RAS Techniques and Instruments (RASTI)_. ([doi.org](https://doi.org/10.1093/rasti/rzae039))
-
-- Mugnai, L. V., Pascale, E., **Bocchieri, A.**, & al. (2023).
-  ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. _Accepted by the Experimental Astronomy journal_
 
 - Jaziri, A. Y., Pluriel, W., **Bocchieri, A.**, & al. (2023).
   ARES VI: Viability of one-dimensional retrieval models for transmission spectroscopy characterization of exo-atmospheres in the era of JWST and Ariel. _The Astronomy & Astrophysics journal_. ([doi.org](ttps://doi.org/10.1051/0004-6361/202347379))
