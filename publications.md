@@ -20,7 +20,7 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
   Exploring Synergies between Twinkle and Ariel: a Pilot Study. _Submitted to the Experimental Astronomy journal_
 
 - Mugnai, L. V., **Bocchieri, A.**, Pascale, E., & al. (2023).
-  ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. _Accepted by the Experimental Astronomy journal_. ([doi.org](https://doi.org/10.48550/arXiv.2501.12809))
+  ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-024-09976-2))
 
 <!-- - **Bocchieri, A.**, Changeat, Q., Mugnai, L. V., and Pascale, E. (2024).
     taurex-emcee: automated, parallelized atmospheric retrievals with TauREx 3.1 and the emcee sampler. *Submitted to JOSS* -->
