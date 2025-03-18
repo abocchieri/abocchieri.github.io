@@ -4,7 +4,7 @@ title: Andrea Bocchieri
 thumbnail-img: assets/img/navimg-cropped.png
 cover-img: /assets/img/Italy-ISS.jpg
 share-img: /assets/img/Italy-ISS.jpg
-subtitle: Postdoc at La Sapienza University of Rome \\ Research Associate at INAF - OAA \\ Ariel Telescope Scientist
+subtitle: Postdoc at La Sapienza University of Rome \\ Research Associate at INAF-OAA \\ Research Associate at CNR-IFN Padova \\ Ariel Telescope Scientist
 ---
 
 Andrea Bocchieri is a researcher in exoplanet science at Sapienza University of Rome. He is the Telescope Scientist for Ariel, ESA's mission for the spectroscopic characterization of extrasolar planets.
