@@ -16,3 +16,5 @@ His research area is the characterization of extrasolar planets, pursued by spec
 - Sapienza University of Rome, [Department of Physics](https://www.phys.uniroma1.it/fisica/)
 
 - INAF, [Osservatorio Astrofisico di Arcetri](https://www.arcetri.inaf.it/)
+
+- CNR, [Istituto di Fotonica e Nanotecnologie di Padova](https://www.ifn.cnr.it/)
