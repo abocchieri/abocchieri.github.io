@@ -14,7 +14,7 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
   Modelling Phase Variations introduced by Extreme Broadband Dichroics for Astronomical Photometry. _The Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)_. ([doi.org](https://doi.org/10.1117/1.JATIS.11.1.014003))
 
 - **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., & al. (2024).
-  De-jittering Ariel: an optimized algorithm. _Submitted to the Experimental Astronomy journal_
+  De-jittering Ariel: an optimized algorithm. _Accepted by the Experimental Astronomy journal_. ([doi.org](https://doi.org/10.48550/arXiv.2504.12907))
 
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
   Exploring Synergies between Twinkle and Ariel: a Pilot Study. _Submitted to the Experimental Astronomy journal_
