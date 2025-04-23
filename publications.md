@@ -77,8 +77,11 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 
 ### Peer-reviewed papers
 
+- Zak, J., Boffin, H., **Bocchieri, A.**, & al. (2025).
+  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Submitted to _The Astronomical journal_.
+
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
-  Stellar obliquities of eight close-in gas giant exoplanets. _The Astronomical journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202452171))
+  Stellar obliquities of eight close-in gas giant exoplanets. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202452171))
 
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
   HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multiplanetary system with ESPRESSO. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202450570))
