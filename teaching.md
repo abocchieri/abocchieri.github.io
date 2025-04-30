@@ -24,9 +24,9 @@ subtitle:
 
 ## Mentoring
 
-### ESA Young Graduates
+### ESA Young Graduates Trainees
 
-* Howard Hall, ESA Mission Performance Engineering YGT (2022-present)
+* Howard Hall, ESA Mission Performance Engineering YGT (2022-2023)
 
 ### PhD students
 
