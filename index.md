@@ -11,6 +11,8 @@ Andrea Bocchieri is a researcher in exoplanet science at Sapienza University of 
 
 His research area is the characterization of extrasolar planets, pursued by spectroscopic observations from the ground and space, modeling of the spectroscopic observables, data analysis, optimization of space instrumentation, especially optical aspects, and control of experimental systematics. 
 
+<!-- Andrea Bocchieri è un ricercatore in scienza degli esopianeti presso Sapienza Università di Roma. La sua area di ricerca è la caratterizzazione degli esopianeti, perseguita attraverso osservazioni spettroscopiche da terra e dallo spazio, la modellizzazione delle osservabili spettroscopiche, l'analisi dei dati, l'ottimizzazione della strumentazione spaziale – con particolare riguardo agli aspetti ottici – e il controllo delle sistematiche sperimentali. Andrea ricopre il ruolo di Telescope Scientist per Ariel, la missione dell'ESA dedicata alla prima survey spettroscopica delle atmosfere di centinaia di esopianeti. -->
+
 ## Contacts
 
 - Sapienza University of Rome, [Department of Physics](https://www.phys.uniroma1.it/fisica/)

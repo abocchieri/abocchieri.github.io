@@ -22,6 +22,8 @@ subtitle:
 
 * Angele Syty, *Line of sight jitter detrending techniques for the Ariel space mission* (2023)
 
+* Christian Gaiotto, *Simulation of the effects of alignment tolerances and as-built mirror surface errors on the optical performance of the Ariel space telescope* (2025)
+
 ## Mentoring
 
 ### Young Graduates
