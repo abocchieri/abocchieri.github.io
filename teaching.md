@@ -26,8 +26,10 @@ subtitle:
 
 ## Mentoring
 
-### Young Graduates
-
-* Angele Syty, *Pixel non-linearity detrending techniques for the Ariel space mission* (2024)
+### ESA Young Graduates
 
 * Howard Hall, ESA Mission Performance Engineering YGT (2022-present)
+
+### PhD students
+
+* Angele Syty, *Detrending techniques for the Ariel space mission* (2024-present)
