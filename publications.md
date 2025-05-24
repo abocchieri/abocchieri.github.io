@@ -14,7 +14,7 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
   Modelling Phase Variations introduced by Extreme Broadband Dichroics for Astronomical Photometry. _The Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)_. ([doi.org](https://doi.org/10.1117/1.JATIS.11.1.014003))
 
 - **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., & al. (2024).
-  De-jittering Ariel: an optimized algorithm. _Accepted by the Experimental Astronomy journal_. ([doi.org](https://doi.org/10.48550/arXiv.2504.12907))
+  De-jittering Ariel: an optimized algorithm. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-025-09999-3))
 
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
   Exploring Synergies between Twinkle and Ariel: a Pilot Study. _Submitted to the Experimental Astronomy journal_
@@ -78,7 +78,7 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 ### Peer-reviewed papers
 
 - Zak, J., Boffin, H., **Bocchieri, A.**, & al. (2025).
-  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Submitted to _The Astronomical journal_.
+  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Accepted by _The Astronomical journal_.
 
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
   Stellar obliquities of eight close-in gas giant exoplanets. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202452171))
