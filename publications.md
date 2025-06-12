@@ -4,7 +4,7 @@ title: Publications
 subtitle:
 ---
 
-To date, I have co-authored 44+ publications, of which 10 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
+To date, I have co-authored 50+ publications, of which 10 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
 
 ## Recent first or second-author papers
 
