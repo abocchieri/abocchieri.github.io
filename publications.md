@@ -57,6 +57,21 @@ To date, I have co-authored 44+ publications, of which 10 are first-author works
 
 ## Recent first or second-author conference proceedings
 
+- **Bocchieri, A.** and Mugnai, L. V. (2025).
+  Leveraging advanced simulators to optimize the Ariel space mission preparation. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-224.html))
+
+- **Bocchieri, A.**, Zak, J., and Turrini, D. (2025).
+  ExoNAMD: a community tool to gauge multi-planetary systems. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-223.html))
+
+- **Bocchieri, A.**, Lorenzani, A., Petralia, A., Pascale, E., and Micela, G. (2025).
+  Ariel-IT end-to-end exercise from the astrophysical scene to planetary spectra: simulations and retrieval. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-384.html))
+
+- Zak, J., **Bocchieri, A.**, and Boffin, H. (2025).
+  Planet migration in the era of JWST and Ariel. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-577.html))
+
+- Pascale, E., **Bocchieri, A.**, et al. (2025).
+  The Atmospheric Remote-sensing Infrared Exoplanet Large-survey sensitivity and performance. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-1626.html))
+
 - **Bocchieri, A.**, Mugnai, L. V., Pascale, E., and Syty, A. (2024).
   Ariel detrending: algorithms to mitigate the jitter disturbance. In _European planetary science congress_ (Vol. 17, epsc2024-240). ([doi.org](https://doi.org/10.5194/epsc2024-240))
 
@@ -95,6 +110,27 @@ To date, I have co-authored 44+ publications, of which 10 are first-author works
   PAOS, the Physical Optics Propagation model of the Ariel optical system. In _European planetary science congress_ (Vol. 15, epsc2021-241). ([doi.org](https://doi.org/10.5194/epsc2021-241))
 
 ## Other conference proceedings
+
+- Guerriero, E., et al. (2025).
+  Development of a Cryogenic Vacuum Facility for Structural and Thermal Testing of ARIEL’s Primary Mirror (M1 SM) at INAF Palermo. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-567.html))
+
+- Syty, A., Beaulieu, J. P., **Bocchieri, A.**, et al. (2025).
+  Assessing the impact of instrumental systematics on Ariel spectrometer performance using simulated observations. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-742.html))
+
+- Yip, K. H., Mugnai, L. V., Papageorgiou, A., **Bocchieri, A.**, et al. (2025).
+  Ariel Data Challenge 2025: Advancing Exoplanetary Signal Extraction for the Ariel Space Telescope. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-1675.html))
+
+- Gaiotto, C., et al. (2025).
+  Simulation of the effects of alignment tolerances and as-built mirror surface errors on the optical performance of the Ariel space telescope. In _SPIE Optical Engineering + Applications (OP25O) 2025_.
+  <!-- ([doi.org](https://doi.org/10.1117/12.3021633)) -->
+
+- Cardinale, V. D., et al. (2025).
+  Modal analysis of Ni-P coated cryogenic mirrors for the Ariel mission. In _SPIE Astronomical Applications (OP25A) 2025_.
+  <!-- ([doi.org](https://doi.org/10.1117/12.3021633)) -->
+
+- Guerriero, E., et al. (2025). 
+  Cryo-facility project for Ariel M1 tests. In _SPIE Astronomical Applications (OP25A) 2025_.
+  <!-- % ([doi.org](https://doi.org/10.1117/12.3021633)) -->
 
 - Vernani, D., & al. (2024).
   The manufacturing development of the 1.1 meters aluminium mirror for the Ariel mission. Submitted to the _International Conference on Space Optics_ (2024, Vol. XX)
