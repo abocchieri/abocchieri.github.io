@@ -4,11 +4,9 @@ title: Publications
 subtitle:
 ---
 
-To date, I have co-authored 35+ publications, of which 9 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
+To date, I have co-authored 44+ publications, of which 10 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
 
-## Recent first or second-author publications
-
-### Peer-reviewed papers
+## Recent first or second-author papers
 
 - Thurairethinam, V., **Bocchieri, A.**, Savini, G., Mugnai, L. V., and Pascale, E. (2024).
   Modelling Phase Variations introduced by Extreme Broadband Dichroics for Astronomical Photometry. _The Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)_. ([doi.org](https://doi.org/10.1117/1.JATIS.11.1.014003))
@@ -34,7 +32,30 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 - **Bocchieri, A.**, Mugnai, L. V., Pascale, E., Changeat, Q., & Tinetti, G. (2022).
   Detecting molecules in Ariel low resolution transmission spectra. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-023-09911-x))
 
-### Conference proceedings
+## Other co-authored papers
+
+- Zak, J., Boffin, H., **Bocchieri, A.**, & al. (2025).
+  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Submitted to _The Astronomical journal_. ([doi.org](https://doi.org/10.48550/arXiv.2505.20516))
+
+- Kokori, A., & al. (2025).
+  ExoClock Project IV: A Homogeneous Catalogue of 620 Exoplanet Ephemerides for the Ariel Space Mission. Submitted to _the Astronomical journal_.
+
+- Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
+  Stellar obliquities of eight close-in gas giant exoplanets. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202452171))
+
+- Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
+  HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multiplanetary system with ESPRESSO. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202450570))
+
+- Chubb, K. L., Robert, S., Sousa-Silva, C., & al. (2024).
+  Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications. _RAS Techniques and Instruments (RASTI)_. ([doi.org](https://doi.org/10.1093/rasti/rzae039))
+
+- Jaziri, A. Y., Pluriel, W., **Bocchieri, A.**, & al. (2023).
+  ARES VI: Viability of one-dimensional retrieval models for transmission spectroscopy characterization of exo-atmospheres in the era of JWST and Ariel. _The Astronomy & Astrophysics journal_. ([doi.org](ttps://doi.org/10.1051/0004-6361/202347379))
+
+- Mugnai, L. V., Al-Refaie, **Bocchieri, A.**, Changeat, Q., Pascale, E., & Tinetti, G. (2021).
+  Alfnoor: Assessing the information content of Ariel’s low-resolution spectra with planetary population studies. _The Astronomical Journal, 162(6), 288._ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....162..288M/abstract))
+
+## Recent first or second-author conference proceedings
 
 - **Bocchieri, A.**, Mugnai, L. V., Pascale, E., and Syty, A. (2024).
   Ariel detrending: algorithms to mitigate the jitter disturbance. In _European planetary science congress_ (Vol. 17, epsc2024-240). ([doi.org](https://doi.org/10.5194/epsc2024-240))
@@ -73,29 +94,7 @@ To date, I have co-authored 35+ publications, of which 9 are first-author works.
 - **Bocchieri, A.** & Pascale, E. (2021).
   PAOS, the Physical Optics Propagation model of the Ariel optical system. In _European planetary science congress_ (Vol. 15, epsc2021-241). ([doi.org](https://doi.org/10.5194/epsc2021-241))
 
-## Recent co-authored publications
-
-### Peer-reviewed papers
-
-- Zak, J., Boffin, H., **Bocchieri, A.**, & al. (2025).
-  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Accepted by _The Astronomical journal_.
-
-- Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
-  Stellar obliquities of eight close-in gas giant exoplanets. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202452171))
-
-- Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
-  HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multiplanetary system with ESPRESSO. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202450570))
-
-- Chubb, K. L., Robert, S., Sousa-Silva, C., & al. (2024).
-  Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications. _RAS Techniques and Instruments (RASTI)_. ([doi.org](https://doi.org/10.1093/rasti/rzae039))
-
-- Jaziri, A. Y., Pluriel, W., **Bocchieri, A.**, & al. (2023).
-  ARES VI: Viability of one-dimensional retrieval models for transmission spectroscopy characterization of exo-atmospheres in the era of JWST and Ariel. _The Astronomy & Astrophysics journal_. ([doi.org](ttps://doi.org/10.1051/0004-6361/202347379))
-
-- Mugnai, L. V., Al-Refaie, **Bocchieri, A.**, Changeat, Q., Pascale, E., & Tinetti, G. (2021).
-  Alfnoor: Assessing the information content of Ariel’s low-resolution spectra with planetary population studies. _The Astronomical Journal, 162(6), 288._ ([NASA ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....162..288M/abstract))
-
-### Conference proceedings
+## Other conference proceedings
 
 - Vernani, D., & al. (2024).
   The manufacturing development of the 1.1 meters aluminium mirror for the Ariel mission. Submitted to the _International Conference on Space Optics_ (2024, Vol. XX)
