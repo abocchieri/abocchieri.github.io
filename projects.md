@@ -27,7 +27,7 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 
 ### ExoNAMD
 <!-- <img src="https://abocchieri.github.io/assets/img/alfnoor.png" alt="exonamd" width="20%" height="20%" style="float:left; padding-right:30px"> -->
-[ExoNAMD](https://exonamd.readthedocs.io/) is a Python package to compute the Normalized Angular Momentum Deficit (NAMD) of exoplanetary systems. The NAMD is a measure of the dynamical excitation of a planetary system, and it can be defined as the difference between the total angular momentum of the system and the angular momentum it would have if all planets were on circular, coplanar orbits.
+[ExoNAMD](https://exonamd.readthedocs.io/) is a Python package to compute the Normalized Angular Momentum Deficit (NAMD) of exoplanetary systems. The NAMD is a measure of the dynamical excitation of a planetary system, and it can be defined as the difference between the total angular momentum of the system and the angular momentum it would have if all planets were on circular, coplanar orbits. ExoNAMD is publicly available on [GitHub](https://github.com/abocchieri/ExoNAMD) and [PyPI](https://pypi.org/project/exonamd/), so you can install it with a simple `pip install exonamd`.
 
 ### TauREx-emcee
 
