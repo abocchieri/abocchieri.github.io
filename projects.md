@@ -25,6 +25,10 @@ subtitle:
 <img src="https://abocchieri.github.io/assets/img/alfnoor.png" alt="alfnoor" width="20%" height="20%" style="float:left; padding-right:30px">
 Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabilities of TauREx to populations of atmospheres. It is used in the context of Ariel to simulate the mission performances (see [here](https://arxiv.org/abs/2003.01839), [here](https://arxiv.org/abs/2110.00503), and [here](https://arxiv.org/abs/2309.06817)), and on real data to perform large scale population analyses (see [here](https://arxiv.org/abs/2204.11729)).
 
+### ExoNAMD
+<!-- <img src="https://abocchieri.github.io/assets/img/alfnoor.png" alt="exonamd" width="20%" height="20%" style="float:left; padding-right:30px"> -->
+[ExoNAMD](https://exonamd.readthedocs.io/) is a Python package to compute the Normalized Angular Momentum Deficit (NAMD) of exoplanetary systems. The NAMD is a measure of the dynamical excitation of a planetary system, and it can be defined as the difference between the total angular momentum of the system and the angular momentum it would have if all planets were on circular, coplanar orbits.
+
 ### TauREx-emcee
 
 <img src="https://abocchieri.github.io/assets/img/taurex-emcee_logo.png" alt="taurex-emcee" width="20%" height="20%" style="float:left; padding-right:30px">
