@@ -51,7 +51,7 @@ Alfnoor (The Thousand Light Simulator) is a project aiming to expand the capabil
 ### Ariel Data Challenge
 
 <img src="https://abocchieri.github.io/assets/img/ArielDataChallengeLogo.png" alt="ariel_data_challenge" width="20%" height="20%" style="float:left; padding-right:30px">
-The [Ariel Data Challenge](https://www.ariel-datachallenge.space/) calls on the AI global community to investigate solutions for the interpretation and analysis of exoplanet data. After the success of the previous editions (see [here](https://browse.arxiv.org/abs/2010.15996), [here](https://browse.arxiv.org/abs/2206.14642), and [Kaggle](https://www.kaggle.com/competitions/ariel-data-challenge-2024)), NeurIPS - Ariel Data Challenge 2025 has recently launched on [Kaggle](https://www.kaggle.com/competitions/ariel-data-challenge-2025). I am a key member of the Ariel Data Challenge 2025 team: I helped to develop the challenge, the data to be used, and the state-of-the-art pipeline to benchmark the results of the participants.
+The [Ariel Data Challenge](https://www.ariel-datachallenge.space/) calls on the AI global community to investigate solutions for the interpretation and analysis of exoplanet data. After the success of the previous editions (see [here](https://browse.arxiv.org/abs/2010.15996), [here](https://browse.arxiv.org/abs/2206.14642), and [here](https://www.kaggle.com/competitions/ariel-data-challenge-2024)), NeurIPS - Ariel Data Challenge 2025 has recently launched on [Kaggle](https://www.kaggle.com/competitions/ariel-data-challenge-2025). I am a key member of the Ariel Data Challenge 2025 team: I helped to develop the challenge, the data to be used, and the state-of-the-art pipeline to benchmark the results of the participants.
 
 ## Community Outreach
 
