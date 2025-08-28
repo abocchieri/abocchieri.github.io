@@ -8,6 +8,9 @@ To date, I have co-authored 50+ publications, of which 10 are first-author works
 
 ## Recent first or second-author papers
 
+- **Bocchieri, A.**, Zak, J., and Turrini, D. (2025).
+  ExoNAMD: Leveraging the spin-orbit angle to constrain the dynamics of multiplanetary systems. Submitted to _the Astronomy & Astrophysics journal_.
+
 - Thurairethinam, V., **Bocchieri, A.**, Savini, G., Mugnai, L. V., and Pascale, E. (2024).
   Modelling Phase Variations introduced by Extreme Broadband Dichroics for Astronomical Photometry. _The Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)_. ([doi.org](https://doi.org/10.1117/1.JATIS.11.1.014003))
 
@@ -15,7 +18,7 @@ To date, I have co-authored 50+ publications, of which 10 are first-author works
   De-jittering Ariel: an optimized algorithm. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-025-09999-3))
 
 - **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
-  Exploring Synergies between Twinkle and Ariel: a Pilot Study. _Submitted to the Experimental Astronomy journal_
+  Exploring Synergies between Twinkle and Ariel: a Pilot Study. Submitted to _the Experimental Astronomy journal_
 
 - Mugnai, L. V., **Bocchieri, A.**, Pascale, E., & al. (2023).
   ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-024-09976-2))
@@ -33,6 +36,12 @@ To date, I have co-authored 50+ publications, of which 10 are first-author works
   Detecting molecules in Ariel low resolution transmission spectra. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-023-09911-x))
 
 ## Other co-authored papers
+
+- Mugnai L. V., Yip K. H., **Bocchieri, A.**, & al. (2025).
+  A public Ariel simulated observations dataset for developing data reduction pipelines in exoplanetary atmosphere. Submitted to _RAS Techniques and Instruments (RASTI)_.
+
+- Zak, J., & al. (2025).
+  PLATOSpec’s first results: planets WASP-35b and TOI-622b are on aligned orbits, and K2-237b is on a polar orbi. Accepted in the _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.48550/arXiv.2508.10145))
 
 - Zak, J., Boffin, H., **Bocchieri, A.**, & al. (2025).
   Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Submitted to _The Astronomical journal_. ([doi.org](https://doi.org/10.48550/arXiv.2505.20516))
