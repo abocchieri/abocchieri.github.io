@@ -4,7 +4,7 @@ title: Publications
 subtitle:
 ---
 
-To date, I have co-authored 50+ publications, of which 10 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
+To date, I have co-authored 58+ publications, of which 13 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
 
 ## Recent first or second-author papers
 
@@ -78,7 +78,7 @@ To date, I have co-authored 50+ publications, of which 10 are first-author works
 - Zak, J., **Bocchieri, A.**, and Boffin, H. (2025).
   Planet migration in the era of JWST and Ariel. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-577.html))
 
-- Pascale, E., **Bocchieri, A.**, et al. (2025).
+- Pascale, E., **Bocchieri, A.**, & al. (2025).
   The Atmospheric Remote-sensing Infrared Exoplanet Large-survey sensitivity and performance. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-1626.html))
 
 - **Bocchieri, A.**, Mugnai, L. V., Pascale, E., and Syty, A. (2024).
@@ -120,31 +120,31 @@ To date, I have co-authored 50+ publications, of which 10 are first-author works
 
 ## Other conference proceedings
 
-- Guerriero, E., et al. (2025).
+- Guerriero, E., & al. (2025).
   Development of a Cryogenic Vacuum Facility for Structural and Thermal Testing of ARIEL’s Primary Mirror (M1 SM) at INAF Palermo. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-567.html))
 
-- Syty, A., Beaulieu, J. P., **Bocchieri, A.**, et al. (2025).
+- Syty, A., Beaulieu, J. P., **Bocchieri, A.**, & al. (2025).
   Assessing the impact of instrumental systematics on Ariel spectrometer performance using simulated observations. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-742.html))
 
-- Yip, K. H., Mugnai, L. V., Papageorgiou, A., **Bocchieri, A.**, et al. (2025).
+- Yip, K. H., Mugnai, L. V., Papageorgiou, A., **Bocchieri, A.**, & al. (2025).
   Ariel Data Challenge 2025: Advancing Exoplanetary Signal Extraction for the Ariel Space Telescope. In _European planetary science congress_ (2025, Vol. 18). ([doi.org](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-1675.html))
 
-- Gaiotto, C., et al. (2025).
+- Gaiotto, C., & al. (2025).
   Simulation of the effects of alignment tolerances and as-built mirror surface errors on the optical performance of the Ariel space telescope. In _SPIE Optical Engineering + Applications (OP25O) 2025_.
   <!-- ([doi.org](https://doi.org/10.1117/12.3021633)) -->
 
-- Cardinale, V. D., et al. (2025).
+- Cardinale, V. D., & al. (2025).
   Modal analysis of Ni-P coated cryogenic mirrors for the Ariel mission. In _SPIE Astronomical Applications (OP25A) 2025_.
   <!-- ([doi.org](https://doi.org/10.1117/12.3021633)) -->
 
-- Guerriero, E., et al. (2025). 
+- Guerriero, E., & al. (2025). 
   Cryo-facility project for Ariel M1 tests. In _SPIE Astronomical Applications (OP25A) 2025_.
   <!-- % ([doi.org](https://doi.org/10.1117/12.3021633)) -->
 
 - Vernani, D., & al. (2024).
-  The manufacturing development of the 1.1 meters aluminium mirror for the Ariel mission. Submitted to the _International Conference on Space Optics_ (2024, Vol. XX)
+  The manufacturing development of the 1.1 meters aluminium mirror for the Ariel mission. _The International Conference on Space Optics_ (2024). ([doi.org](http://dx.doi.org/10.1117/12.3075155))
 
-- Chioetto, P., Araiza-Durán, J., A., Barozzi, U., **Bocchieri, A.**, & al. (2024). Analysis and characterization of mid-spatial frequency surface errors on the mirrors of the Ariel space telescope. Submitted to the _International Conference on Space Optics_ (2024, Vol. XX)
+- Chioetto, P., Araiza-Durán, J., A., Barozzi, U., **Bocchieri, A.**, & al. (2024). Analysis and characterization of mid-spatial frequency surface errors on the mirrors of the Ariel space telescope. _The International Conference on Space Optics_ (2024). ([doi.org](http://dx.doi.org/10.1117/12.3075158))
 
 - Kleyheeg, A., & al. (2024).
   Integration and testing of a cryogenic receiver for the Exoplanet Climate Infrared Telescope. In _SPIE Astronomical Telescopes + Instrumentation 2024_. ([doi.org](https://doi.org/10.1117/12.3020522))
