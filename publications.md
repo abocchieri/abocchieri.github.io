@@ -4,7 +4,7 @@ title: Publications
 subtitle:
 ---
 
-To date, I have co-authored 58+ publications, of which 13 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
+To date, I have co-authored 59+ publications, of which 13 are first-author works. Have a look at my [ADS library](https://ui.adsabs.harvard.edu/user/libraries/Z4-J8aFXRCGsjBgtCHea2Q) for the full record.
 
 ## Recent first or second-author papers
 
@@ -36,6 +36,9 @@ To date, I have co-authored 58+ publications, of which 13 are first-author works
   Detecting molecules in Ariel low resolution transmission spectra. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-023-09911-x))
 
 ## Other co-authored papers
+
+- Changeat, Q., & al. (2025).
+  On the synergetic use of Ariel and JWST for exoplanet atmospheric science. White paper authored by the Ariel-JWST synergy working group. ([doi.org](https://doi.org/10.48550/arXiv.2509.02657))
 
 - Mugnai L. V., Yip K. H., **Bocchieri, A.**, & al. (2025).
   A public Ariel simulated observations dataset for developing data reduction pipelines in exoplanetary atmosphere. Submitted to _RAS Techniques and Instruments (RASTI)_.
