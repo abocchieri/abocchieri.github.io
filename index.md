@@ -21,8 +21,8 @@ His research area is the characterization of extrasolar planets, pursued by spec
 
 - CNR, [Istituto di Fotonica e Nanotecnologie di Padova](https://www.ifn.cnr.it/)
 
-## Curriculum Vitae et Studiorum
+## Curriculum Vitae
 
-[CV](assets/pdf/cv_andrea_bocchieri.pdf)
+[CV here](assets/pdf/cv_andrea_bocchieri.pdf)
 
 [PhD thesis](https://iris.uniroma1.it/handle/11573/1697356?mode=simple)
