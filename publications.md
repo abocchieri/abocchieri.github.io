@@ -11,14 +11,14 @@ To date, I have co-authored 59+ publications, of which 13 are first-author works
 - **Bocchieri, A.**, Zak, J., and Turrini, D. (2025).
   ExoNAMD: Leveraging the spin-orbit angle to constrain the dynamics of multiplanetary systems. Submitted to _the Astronomy & Astrophysics journal_.
 
-- Thurairethinam, V., **Bocchieri, A.**, Savini, G., Mugnai, L. V., and Pascale, E. (2024).
-  Modelling Phase Variations introduced by Extreme Broadband Dichroics for Astronomical Photometry. _The Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)_. ([doi.org](https://doi.org/10.1117/1.JATIS.11.1.014003))
-
-- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., & al. (2024).
+- **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., & al. (2025).
   De-jittering Ariel: an optimized algorithm. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-025-09999-3))
 
-- **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2024).
-  Exploring Synergies between Twinkle and Ariel: a Pilot Study. Submitted to _the Experimental Astronomy journal_
+- **Bocchieri, A.**, Booth, L., and Mugnai, L. V. (2025).
+  Exploring Synergies between Twinkle and Ariel: a Pilot Study. Accepted by _the Experimental Astronomy journal_
+
+- Thurairethinam, V., **Bocchieri, A.**, Savini, G., Mugnai, L. V., and Pascale, E. (2024).
+  Modelling Phase Variations introduced by Extreme Broadband Dichroics for Astronomical Photometry. _The Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)_. ([doi.org](https://doi.org/10.1117/1.JATIS.11.1.014003))
 
 - Mugnai, L. V., **Bocchieri, A.**, Pascale, E., & al. (2023).
   ExoSim 2.0: the new Exoplanet Observation Simulator applied to the Ariel space mission. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-024-09976-2))
