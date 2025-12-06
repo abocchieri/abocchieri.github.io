@@ -9,7 +9,7 @@ To date, I have co-authored 59+ publications, of which 13 are first-author works
 ## Recent first or second-author papers
 
 - **Bocchieri, A.**, Zak, J., and Turrini, D. (2025).
-  ExoNAMD: Leveraging the spin-orbit angle to constrain the dynamics of multiplanetary systems. Submitted to _the Astronomy & Astrophysics journal_.
+  ExoNAMD: Leveraging the spin-orbit angle to constrain the dynamics of multiplanetary systems. Accepted by _the Astronomy & Astrophysics journal_.
 
 - **Bocchieri, A.**, Mugnai, L. V., and Pascale, E., & al. (2025).
   De-jittering Ariel: an optimized algorithm. _The Experimental Astronomy journal_. ([doi.org](https://doi.org/10.1007/s10686-025-09999-3))
@@ -44,13 +44,13 @@ To date, I have co-authored 59+ publications, of which 13 are first-author works
   A public Ariel simulated observations dataset for developing data reduction pipelines in exoplanetary atmosphere. Submitted to _RAS Techniques and Instruments (RASTI)_.
 
 - Zak, J., & al. (2025).
-  PLATOSpec’s first results: planets WASP-35b and TOI-622b are on aligned orbits, and K2-237b is on a polar orbi. Accepted in the _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.48550/arXiv.2508.10145))
+  PLATOSpec’s first results: planets WASP-35b and TOI-622b are on aligned orbits, and K2-237b is on a polar orbi. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202556115))
 
 - Zak, J., Boffin, H., **Bocchieri, A.**, & al. (2025).
-  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. Submitted to _The Astronomical journal_. ([doi.org](https://doi.org/10.48550/arXiv.2505.20516))
+  Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel. _The Astronomical journal_. ([doi.org](https://doi.org/10.3847/1538-3881/ae071b))
 
 - Kokori, A., & al. (2025).
-  ExoClock Project IV: A Homogeneous Catalogue of 620 Exoplanet Ephemerides for the Ariel Space Mission. Submitted to _the Astronomical journal_.
+  ExoClock Project IV: A Homogeneous Catalogue of 620 Exoplanet Ephemerides for the Ariel Space Mission. Accepted by _the Astronomical journal_. ([doi.org](https://doi.org/10.48550/arXiv.2511.14407))
 
 - Zak, J., Boffin, H., Sedaghati, E., **Bocchieri, A.**, & al. (2024).
   Stellar obliquities of eight close-in gas giant exoplanets. _The Astronomy & Astrophysics journal_. ([doi.org](https://doi.org/10.1051/0004-6361/202452171))
